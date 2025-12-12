@@ -40,13 +40,30 @@ El EDA ofrece visualizaciones, estadísticas básicas, tratamiento de datos y un
 
 ## 🛠️ 3. Tecnologías utilizadas
 
-- **Python 3.10+**
-- **Pandas** (limpieza y manipulación de datos)
-- **NumPy**
-- **Matplotlib & Seaborn** (visualización)
-- **Jupyter Notebook** (desarrollo del EDA)
-- **Git + GitHub** (control de versiones y entrega)
+**Lenguaje y entorno**
 
+- Python 3.10+
+- Jupyter Notebook / Visual Studio Code
+
+**Librerías principales para análisis**
+
+- Pandas: limpieza y manipulación de datos
+- NumPy
+
+**Visualización**
+
+- Matplotlib + Plotly 
+- Seaborn
+
+**Control de versiones**
+
+- Git y GitHub
+
+**Gestión de archivos y datos**
+
+- OpenPyXL (Excel)
+- JSON / CSV
+  
 ---
 
 ## 📂 4. Estructura del repositorio
