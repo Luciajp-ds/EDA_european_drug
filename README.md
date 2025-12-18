@@ -89,7 +89,7 @@ EDA_Ansioliticos_España/
 
 ```bash
 git clone https://github.com/luciajp-ds/EDA_ansioliticos_esp.git
-cd EDA_ansioliticos_esp
+cd eda_european_drug
 
 pip install -r requirements.txt
 

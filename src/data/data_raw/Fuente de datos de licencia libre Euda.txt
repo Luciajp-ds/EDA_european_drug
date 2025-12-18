@@ -1,0 +1,10 @@
+EUDA es una agencia oficial de la Unión Europea.
+
+Los datasets que publica en “Source data / European Drug Report” están pensados explícitamente para reutilización.
+
+Los datos utilizados proceden de la European Union Drugs Agency (EUDA), organismo oficial de la Unión Europea. Los datasets forman parte del European Drug Report y se publican como datos abiertos para su reutilización con fines de investigación y análisis, citando la fuente original.
+Los datos utilizados proceden de la European Union Drugs Agency (EUDA), organismo oficial de la Unión Europea.
+
+Se han empleado las tablas publicadas como datos fuente del European Drug Report 2023, descargadas en formato CSV.
+
+Estos ficheros constituyen los datos en bruto (data raw) del proyecto, a partir de los cuales se realiza el proceso de limpieza y análisis.
