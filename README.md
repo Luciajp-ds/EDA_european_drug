@@ -58,11 +58,20 @@ Como **objetivos específicos** podemos destacar:
 
 *H1. Los hombres consumen más estupefacientes que las mujeres en todos los grupos de edad*
 
-*H2. Los jóvenes de 15-34 años tienen mayor prevalencia de consumo que los grupos poblacionales mayores*
+📌 Problema: Analizar si todas las drogas presentan la misma brecha de género y de edad
+
+*H2. Los jóvenes de 15-34 años tienen mayor prevalencia de consumo que los grupos poblacionales mayores* 
+
+📌 Problema: Analizar si todas las drogas presentan la misma brecha de edad
 
 *H3. El alcohol es la sustancia más consumida en todos los países europeos*
 
-*H4. Los países nórdicos presentan una prevalencia de consumo superior a los países mediterráneos*
+📌 Problema: Analizar qué droga tiene un consumo más generalizado en Europa
+
+*H4. Existen diferencias en la prevalencia del consumo de estupefacientes entre países europeos*
+
+📌 Problema que aborda: comparación entre países de los diversos tipos de drogas, como cannabis o cocaina.
+
 
 ---
 
