@@ -1,0 +1,21 @@
+Dentro del análisis exploratorio, mi parte se ha centrado en contextualizar farmacológicamente las sustancias analizadas y en contrastar la hipótesis relacionada con diferencias de consumo por edad y género.
+
+
+
+Antes de entrar en los datos, consideramos importante aportar un marco teórico breve sobre cada sustancia, incluyendo su principio activo, estructura química y potencial de dependencia, ya que esto ayuda a interpretar mejor los patrones observados.
+
+
+
+Por ejemplo, el alcohol, que es la sustancia más consumida en todos los grupos, presenta tanto dependencia física como psicológica, lo que explica su elevada prevalencia transversal. En cambio, sustancias como el LSD no generan dependencia física, lo que se refleja en un consumo mucho más bajo y esporádico.
+
+
+
+En cuanto al análisis por edad, mediante diagramas de caja observamos que los jóvenes adultos presentan medianas de consumo más elevadas y mayor dispersión que los adultos, lo que indica no solo mayor consumo, sino también una mayor variabilidad dependiendo de la sustancia. Esto nos permite afirmar que la diferencia no es homogénea, sino que depende claramente del tipo de droga analizada.
+
+
+
+Finalmente, el análisis de la brecha de género muestra valores mayoritariamente positivos, lo que indica un mayor consumo en hombres, siendo los casos de mayor consumo femenino menos frecuentes y concentrados en sustancias concretas.
+
+
+
+En conjunto, estos resultados permiten validar parcialmente la hipótesis planteada y refuerzan la importancia de analizar el consumo desde una perspectiva multifactorial: edad, género y tipo de sustancia.”
