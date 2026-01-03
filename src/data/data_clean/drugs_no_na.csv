@@ -1,0 +1,951 @@
+,country,survey_year,prevalence_(%),substance,recall_period,age,sample_size,males_(%),females_(%),gender_gap
+0,Austria,2020,22.7,Cannabis,Lifetime,Adults (15-64),4650.0,24.8,20.6,4.199999999999999
+1,Austria,2020,27.2,Cannabis,Lifetime,Young adults (15-34),1712.0,26.8,27.6,-0.8000000000000007
+2,Austria,2020,6.3,Cannabis,Last year,Adults (15-64),4650.0,6.8,5.8,1.0
+3,Austria,2020,11.1,Cannabis,Last year,Young adults (15-34),1712.0,10.7,11.4,-0.7000000000000011
+4,Austria,2020,3.6,Cannabis,Last month,Adults (15-64),4650.0,4.0,3.1,0.8999999999999999
+5,Austria,2020,6.8,Cannabis,Last month,Young adults (15-34),1712.0,7.4,6.2,1.2000000000000002
+6,Austria,2022,6.2,Cocaine,Lifetime,Adults (15-64),5162.0,7.2,5.1,2.1000000000000005
+7,Austria,2022,6.9,Cocaine,Lifetime,Young adults (15-34),1792.0,7.4,6.4,1.0
+8,Austria,2022,1.5,Cocaine,Last year,Adults (15-64),5162.0,2.0,1.1,0.8999999999999999
+9,Austria,2022,2.2,Cocaine,Last year,Young adults (15-34),1792.0,2.7,1.8,0.9000000000000001
+10,Austria,2022,0.8,Cocaine,Last month,Adults (15-64),5162.0,1.1,0.5,0.6000000000000001
+11,Austria,2022,1.0,Cocaine,Last month,Young adults (15-34),1792.0,1.1,0.8,0.30000000000000004
+12,Austria,2022,4.5,Amphetamines,Lifetime,Adults (15-64),5162.0,5.3,3.6,1.6999999999999997
+13,Austria,2022,5.4,Amphetamines,Lifetime,Young adults (15-34),1792.0,6.9,3.7,3.2
+14,Austria,2022,0.9,Amphetamines,Last year,Adults (15-64),5162.0,1.2,0.6,0.6
+15,Austria,2022,1.4,Amphetamines,Last year,Young adults (15-34),1792.0,1.7,1.1,0.5999999999999999
+16,Austria,2022,0.5,Amphetamines,Last month,Adults (15-64),5162.0,0.6,0.3,0.3
+17,Austria,2022,0.5,Amphetamines,Last month,Young adults (15-34),1792.0,0.5,0.5,0.0
+18,Austria,2022,4.9,Ecstasy,Lifetime,Adults (15-64),5162.0,5.4,4.5,0.9000000000000004
+19,Austria,2022,6.2,Ecstasy,Lifetime,Young adults (15-34),1792.0,6.9,5.3,1.6000000000000005
+20,Austria,2022,1.0,Ecstasy,Last year,Adults (15-64),5162.0,1.2,0.7,0.5
+21,Austria,2022,1.5,Ecstasy,Last year,Young adults (15-34),1792.0,1.8,1.2,0.6000000000000001
+22,Austria,2022,0.5,Ecstasy,Last month,Adults (15-64),5162.0,0.5,0.4,0.09999999999999998
+23,Austria,2022,0.8,Ecstasy,Last month,Young adults (15-34),1792.0,0.9,0.7,0.20000000000000007
+24,Austria,2015,1.7,LSD,Lifetime,Adults (15-64),3477.0,1.6,1.7,-0.09999999999999987
+25,Austria,2015,1.4,LSD,Lifetime,Young adults (15-34),1837.0,1.5,1.4,0.10000000000000009
+26,Austria,2015,0.3,LSD,Last year,Adults (15-64),3477.0,0.3,0.3,0.0
+27,Austria,2015,0.3,LSD,Last year,Young adults (15-34),1837.0,0.3,0.3,0.0
+28,Austria,2015,0.0,LSD,Last month,Adults (15-64),3477.0,0.1,0.0,0.1
+29,Austria,2015,0.1,LSD,Last month,Young adults (15-34),1837.0,0.2,0.0,0.2
+30,Austria,2020,94.9,Alcohol,Lifetime,Adults (15-64),4650.0,95.4,94.3,1.1000000000000085
+31,Austria,2020,90.1,Alcohol,Lifetime,Young adults (15-34),1712.0,89.7,90.4,-0.7000000000000028
+32,Austria,2020,85.3,Alcohol,Last year,Adults (15-64),4650.0,86.2,84.4,1.7999999999999972
+33,Austria,2020,76.8,Alcohol,Last year,Young adults (15-34),1712.0,76.4,77.2,-0.7999999999999972
+34,Austria,2020,77.2,Alcohol,Last month,Adults (15-64),4650.0,79.8,74.5,5.299999999999997
+35,Austria,2020,67.4,Alcohol,Last month,Young adults (15-34),1712.0,68.9,65.7,3.200000000000003
+36,Austria,2020,72.9,Tobacco,Lifetime,Adults (15-64),4650.0,73.5,72.4,1.0999999999999943
+37,Austria,2020,63.9,Tobacco,Lifetime,Young adults (15-34),1712.0,62.0,66.0,-4.0
+38,Austria,2015,37.5,Tobacco,Last year,Adults (15-64),3477.0,40.4,34.6,5.799999999999997
+39,Austria,2015,41.6,Tobacco,Last year,Young adults (15-34),1837.0,42.0,41.2,0.7999999999999972
+40,Austria,2020,26.1,Tobacco,Last month,Adults (15-64),4650.0,27.3,24.8,2.5
+41,Austria,2020,29.9,Tobacco,Last month,Young adults (15-34),1712.0,31.6,28.2,3.400000000000002
+42,Belgium,2018,22.6,Cannabis,Lifetime,Adults (15-64),3954.0,28.1,17.3,10.8
+43,Belgium,2018,32.8,Cannabis,Lifetime,Young adults (15-34),772.0,39.0,26.6,12.399999999999999
+44,Belgium,2018,7.0,Cannabis,Last year,Adults (15-64),3954.0,10.4,3.7,6.7
+45,Belgium,2018,13.6,Cannabis,Last year,Young adults (15-34),772.0,19.5,7.8,11.7
+46,Belgium,2018,4.3,Cannabis,Last month,Adults (15-64),3954.0,6.7,1.9,4.800000000000001
+47,Belgium,2018,8.1,Cannabis,Last month,Young adults (15-34),772.0,12.2,4.0,8.2
+48,Belgium,2018,1.4,Cocaine,Last year,Adults (15-64),3954.0,2.2,0.5,1.7000000000000002
+49,Belgium,2018,2.9,Cocaine,Last year,Young adults (15-34),772.0,4.7,1.1,3.6
+50,Belgium,2018,0.5,Amphetamines,Last year,Adults (15-64),3954.0,0.8,0.1,0.7000000000000001
+51,Belgium,2018,0.8,Amphetamines,Last year,Young adults (15-34),772.0,1.4,0.3,1.0999999999999999
+52,Belgium,2018,1.2,Ecstasy,Last year,Adults (15-64),3954.0,1.9,0.5,1.4
+53,Belgium,2018,2.5,Ecstasy,Last year,Young adults (15-34),772.0,3.9,1.1,2.8
+54,Belgium,2013,0.0,LSD,Last year,Adults (15-64),4931.0,0.0,0.0,0.0
+55,Belgium,2013,0.0,LSD,Last year,Young adults (15-34),1660.0,0.0,0.1,-0.1
+56,Belgium,2008,82.1,Alcohol,Last year,Adults (15-64),6792.0,85.0,79.4,5.599999999999994
+57,Belgium,2008,78.4,Alcohol,Last year,Young adults (15-34),2550.0,81.6,75.4,6.199999999999989
+58,Belgium,2008,47.7,Tobacco,Lifetime,Adults (15-64),6792.0,53.0,42.6,10.399999999999999
+59,Belgium,2008,38.5,Tobacco,Lifetime,Young adults (15-34),2550.0,42.5,34.7,7.799999999999997
+60,Belgium,2008,27.7,Tobacco,Last month,Adults (15-64),6792.0,31.6,24.1,7.5
+61,Belgium,2008,27.0,Tobacco,Last month,Young adults (15-34),2550.0,32.0,22.3,9.7
+62,Bulgaria,2020,8.7,Cannabis,Lifetime,Adults (15-64),3838.0,9.5,7.8,1.7000000000000002
+63,Bulgaria,2020,17.9,Cannabis,Lifetime,Young adults (15-34),1401.0,18.2,17.6,0.5999999999999979
+64,Bulgaria,2020,2.4,Cannabis,Last year,Adults (15-64),3838.0,2.6,2.2,0.3999999999999999
+65,Bulgaria,2020,5.9,Cannabis,Last year,Young adults (15-34),1401.0,5.7,6.1,-0.39999999999999947
+66,Bulgaria,2020,1.0,Cannabis,Last month,Adults (15-64),3838.0,1.0,1.1,-0.10000000000000009
+67,Bulgaria,2020,2.4,Cannabis,Last month,Young adults (15-34),1401.0,1.7,3.1,-1.4000000000000001
+68,Bulgaria,2020,2.0,Cocaine,Lifetime,Adults (15-64),3838.0,2.5,1.5,1.0
+69,Bulgaria,2020,3.7,Cocaine,Lifetime,Young adults (15-34),1401.0,3.6,3.9,-0.2999999999999998
+70,Bulgaria,2020,0.6,Cocaine,Last year,Adults (15-64),3838.0,0.7,0.5,0.19999999999999996
+71,Bulgaria,2020,1.3,Cocaine,Last year,Young adults (15-34),1401.0,1.3,1.3,0.0
+72,Bulgaria,2020,0.2,Cocaine,Last month,Adults (15-64),3838.0,0.2,0.2,0.0
+73,Bulgaria,2020,0.4,Cocaine,Last month,Young adults (15-34),1401.0,0.4,0.4,0.0
+74,Bulgaria,2020,2.1,Amphetamines,Lifetime,Adults (15-64),3838.0,2.6,1.7,0.9000000000000001
+75,Bulgaria,2020,4.4,Amphetamines,Lifetime,Young adults (15-34),1401.0,4.4,4.4,0.0
+76,Bulgaria,2020,0.7,Amphetamines,Last year,Adults (15-64),3838.0,0.8,0.6,0.20000000000000007
+77,Bulgaria,2020,1.4,Amphetamines,Last year,Young adults (15-34),1401.0,1.0,1.8,-0.8
+78,Bulgaria,2020,0.2,Amphetamines,Last month,Adults (15-64),3838.0,0.3,0.2,0.09999999999999998
+79,Bulgaria,2020,0.5,Amphetamines,Last month,Young adults (15-34),1401.0,0.6,0.4,0.19999999999999996
+80,Bulgaria,2020,1.3,Ecstasy,Lifetime,Adults (15-64),3838.0,1.3,1.2,0.10000000000000009
+81,Bulgaria,2020,2.6,Ecstasy,Lifetime,Young adults (15-34),1401.0,1.7,3.6,-1.9000000000000001
+82,Bulgaria,2020,0.2,Ecstasy,Last year,Adults (15-64),3838.0,0.2,0.3,-0.09999999999999998
+83,Bulgaria,2020,0.7,Ecstasy,Last year,Young adults (15-34),1401.0,0.4,0.9,-0.5
+84,Bulgaria,2020,0.1,Ecstasy,Last month,Adults (15-64),3838.0,0.2,0.0,0.2
+85,Bulgaria,2020,0.2,Ecstasy,Last month,Young adults (15-34),1401.0,0.4,0.0,0.4
+86,Bulgaria,2020,0.2,LSD,Lifetime,Adults (15-64),3838.0,0.3,0.1,0.19999999999999998
+87,Bulgaria,2020,0.4,LSD,Lifetime,Young adults (15-34),1401.0,0.4,0.4,0.0
+88,Bulgaria,2020,0.1,LSD,Last year,Adults (15-64),3838.0,0.0,0.1,-0.1
+89,Bulgaria,2020,0.2,LSD,Last year,Young adults (15-34),1401.0,0.0,0.4,-0.4
+90,Bulgaria,2020,0.0,LSD,Last month,Adults (15-64),3838.0,0.0,0.0,0.0
+91,Bulgaria,2020,0.0,LSD,Last month,Young adults (15-34),1401.0,0.0,0.0,0.0
+92,Bulgaria,2020,82.2,Alcohol,Lifetime,Adults (15-64),3838.0,88.5,76.4,12.099999999999994
+93,Bulgaria,2020,78.4,Alcohol,Lifetime,Young adults (15-34),1401.0,83.6,73.3,10.299999999999997
+94,Bulgaria,2020,74.3,Alcohol,Last year,Adults (15-64),3838.0,82.0,67.2,14.799999999999997
+95,Bulgaria,2020,71.3,Alcohol,Last year,Young adults (15-34),1401.0,78.3,64.3,14.0
+96,Bulgaria,2020,63.7,Alcohol,Last month,Adults (15-64),3838.0,74.1,54.1,19.999999999999993
+97,Bulgaria,2020,60.0,Alcohol,Last month,Young adults (15-34),1401.0,66.1,54.0,12.099999999999994
+98,Bulgaria,2020,65.9,Tobacco,Lifetime,Adults (15-64),3838.0,69.9,62.3,7.6000000000000085
+99,Bulgaria,2020,63.2,Tobacco,Lifetime,Young adults (15-34),1401.0,64.3,62.1,2.1999999999999957
+100,Bulgaria,2020,50.6,Tobacco,Last year,Adults (15-64),3838.0,53.9,47.6,6.299999999999997
+101,Bulgaria,2020,51.0,Tobacco,Last year,Young adults (15-34),1401.0,51.1,50.9,0.20000000000000284
+102,Bulgaria,2020,49.1,Tobacco,Last month,Adults (15-64),3838.0,52.6,45.9,6.700000000000003
+103,Bulgaria,2020,49.3,Tobacco,Last month,Young adults (15-34),1401.0,49.8,48.9,0.8999999999999986
+104,Croatia,2019,22.9,Cannabis,Lifetime,Adults (15-64),4994.0,28.8,16.9,11.900000000000002
+105,Croatia,2019,36.0,Cannabis,Lifetime,Young adults (15-34),1967.0,42.5,29.2,13.3
+106,Croatia,2019,10.2,Cannabis,Last year,Adults (15-64),4994.0,14.2,6.2,7.999999999999999
+107,Croatia,2019,20.3,Cannabis,Last year,Young adults (15-34),1967.0,26.8,13.4,13.4
+108,Croatia,2019,5.6,Cannabis,Last month,Adults (15-64),4994.0,8.1,3.1,5.0
+109,Croatia,2019,11.3,Cannabis,Last month,Young adults (15-34),1967.0,16.0,6.5,9.5
+110,Croatia,2019,4.8,Cocaine,Lifetime,Adults (15-64),4994.0,7.0,2.5,4.5
+111,Croatia,2019,7.5,Cocaine,Lifetime,Young adults (15-34),1967.0,10.4,4.4,6.0
+112,Croatia,2019,1.8,Cocaine,Last year,Adults (15-64),4994.0,2.8,0.9,1.9
+113,Croatia,2019,3.9,Cocaine,Last year,Young adults (15-34),1967.0,5.9,1.8,4.1000000000000005
+114,Croatia,2019,0.9,Cocaine,Last month,Adults (15-64),4994.0,1.4,0.4,0.9999999999999999
+115,Croatia,2019,1.7,Cocaine,Last month,Young adults (15-34),1967.0,2.7,0.7,2.0
+116,Croatia,2019,4.6,Amphetamines,Lifetime,Adults (15-64),4994.0,6.8,2.4,4.4
+117,Croatia,2019,7.4,Amphetamines,Lifetime,Young adults (15-34),1967.0,10.4,4.3,6.1000000000000005
+118,Croatia,2019,1.8,Amphetamines,Last year,Adults (15-64),4994.0,2.6,1.0,1.6
+119,Croatia,2019,3.5,Amphetamines,Last year,Young adults (15-34),1967.0,5.0,1.9,3.1
+120,Croatia,2019,0.9,Amphetamines,Last month,Adults (15-64),4994.0,1.3,0.5,0.8
+121,Croatia,2019,1.4,Amphetamines,Last month,Young adults (15-34),1967.0,1.9,0.8,1.0999999999999999
+122,Croatia,2019,4.2,Ecstasy,Lifetime,Adults (15-64),4994.0,6.1,2.4,3.6999999999999997
+123,Croatia,2019,6.6,Ecstasy,Lifetime,Young adults (15-34),1967.0,9.6,3.6,6.0
+124,Croatia,2019,1.2,Ecstasy,Last year,Adults (15-64),4994.0,1.9,0.5,1.4
+125,Croatia,2019,2.6,Ecstasy,Last year,Young adults (15-34),1967.0,4.2,0.8,3.4000000000000004
+126,Croatia,2019,0.4,Ecstasy,Last month,Adults (15-64),4994.0,0.6,0.2,0.39999999999999997
+127,Croatia,2019,0.7,Ecstasy,Last month,Young adults (15-34),1967.0,1.2,0.2,1.0
+128,Croatia,2019,1.4,LSD,Lifetime,Adults (15-64),4994.0,2.0,0.9,1.1
+129,Croatia,2019,1.9,LSD,Lifetime,Young adults (15-34),1967.0,2.4,1.5,0.8999999999999999
+130,Croatia,2019,0.3,LSD,Last year,Adults (15-64),4994.0,0.5,0.2,0.3
+131,Croatia,2019,0.6,LSD,Last year,Young adults (15-34),1967.0,0.7,0.5,0.19999999999999996
+132,Croatia,2019,0.1,LSD,Last month,Adults (15-64),4994.0,0.3,0.0,0.3
+133,Croatia,2019,0.0,LSD,Last month,Young adults (15-34),1967.0,0.1,0.0,0.1
+134,Croatia,2019,90.9,Alcohol,Lifetime,Adults (15-64),4994.0,94.1,87.6,6.5
+135,Croatia,2019,92.8,Alcohol,Lifetime,Young adults (15-34),1967.0,93.4,92.1,1.3000000000000114
+136,Croatia,2019,83.3,Alcohol,Last year,Adults (15-64),4994.0,87.5,79.0,8.5
+137,Croatia,2019,89.0,Alcohol,Last year,Young adults (15-34),1967.0,90.3,87.6,2.700000000000003
+138,Croatia,2019,62.9,Alcohol,Last month,Adults (15-64),4994.0,71.6,54.2,17.39999999999999
+139,Croatia,2019,69.4,Alcohol,Last month,Young adults (15-34),1967.0,74.1,64.5,9.599999999999994
+140,Croatia,2019,60.6,Tobacco,Lifetime,Adults (15-64),4994.0,65.2,56.1,9.100000000000001
+141,Croatia,2019,62.0,Tobacco,Lifetime,Young adults (15-34),1967.0,65.3,58.6,6.699999999999996
+142,Croatia,2019,44.0,Tobacco,Last year,Adults (15-64),4994.0,46.8,41.2,5.599999999999994
+143,Croatia,2019,50.6,Tobacco,Last year,Young adults (15-34),1967.0,54.1,47.0,7.100000000000001
+144,Croatia,2019,41.5,Tobacco,Last month,Adults (15-64),4994.0,44.0,39.0,5.0
+145,Croatia,2019,46.5,Tobacco,Last month,Young adults (15-34),1967.0,49.5,43.4,6.100000000000001
+146,Cyprus,2019,14.1,Cannabis,Lifetime,Adults (15-64),3511.0,21.5,7.1,14.4
+147,Cyprus,2019,22.4,Cannabis,Lifetime,Young adults (15-34),1572.0,32.2,12.7,19.500000000000004
+148,Cyprus,2019,4.0,Cannabis,Last year,Adults (15-64),3511.0,6.4,1.7,4.7
+149,Cyprus,2019,8.1,Cannabis,Last year,Young adults (15-34),1572.0,12.6,3.8,8.8
+150,Cyprus,2019,2.2,Cannabis,Last month,Adults (15-64),3511.0,3.6,0.8,2.8
+151,Cyprus,2019,4.4,Cannabis,Last month,Young adults (15-34),1572.0,6.9,1.9,5.0
+152,Cyprus,2019,1.8,Cocaine,Lifetime,Adults (15-64),3511.0,3.1,0.6,2.5
+153,Cyprus,2019,3.0,Cocaine,Lifetime,Young adults (15-34),1572.0,4.9,1.1,3.8000000000000003
+154,Cyprus,2019,0.5,Cocaine,Last year,Adults (15-64),3511.0,0.9,0.1,0.8
+155,Cyprus,2019,0.9,Cocaine,Last year,Young adults (15-34),1572.0,1.5,0.3,1.2
+156,Cyprus,2019,0.1,Cocaine,Last month,Adults (15-64),3511.0,0.3,0.0,0.3
+157,Cyprus,2019,0.3,Cocaine,Last month,Young adults (15-34),1572.0,0.5,0.0,0.5
+158,Cyprus,2019,0.4,Amphetamines,Lifetime,Adults (15-64),3511.0,0.6,0.1,0.5
+159,Cyprus,2019,0.4,Amphetamines,Lifetime,Young adults (15-34),1572.0,0.8,0.1,0.7000000000000001
+160,Cyprus,2019,0.1,Amphetamines,Last year,Adults (15-64),3511.0,0.2,0.0,0.2
+161,Cyprus,2019,0.2,Amphetamines,Last year,Young adults (15-34),1572.0,0.4,0.0,0.4
+162,Cyprus,2019,0.1,Amphetamines,Last month,Adults (15-64),3511.0,0.2,0.0,0.2
+163,Cyprus,2019,0.1,Amphetamines,Last month,Young adults (15-34),1572.0,0.1,0.0,0.1
+164,Cyprus,2019,1.2,Ecstasy,Lifetime,Adults (15-64),3511.0,1.9,0.4,1.5
+165,Cyprus,2019,1.9,Ecstasy,Lifetime,Young adults (15-34),1572.0,3.1,0.8,2.3
+166,Cyprus,2019,0.3,Ecstasy,Last year,Adults (15-64),3511.0,0.5,0.1,0.4
+167,Cyprus,2019,0.4,Ecstasy,Last year,Young adults (15-34),1572.0,0.6,0.1,0.5
+168,Cyprus,2019,0.2,Ecstasy,Last month,Adults (15-64),3511.0,0.3,0.1,0.19999999999999998
+169,Cyprus,2019,0.3,Ecstasy,Last month,Young adults (15-34),1572.0,0.4,0.1,0.30000000000000004
+170,Cyprus,2019,0.7,LSD,Lifetime,Adults (15-64),3511.0,1.4,0.1,1.2999999999999998
+171,Cyprus,2019,1.0,LSD,Lifetime,Young adults (15-34),1572.0,1.8,0.1,1.7
+172,Cyprus,2019,0.1,LSD,Last year,Adults (15-64),3511.0,0.2,0.0,0.2
+173,Cyprus,2019,0.1,LSD,Last year,Young adults (15-34),1572.0,0.3,0.0,0.3
+174,Cyprus,2019,0.1,LSD,Last month,Adults (15-64),3511.0,0.1,0.0,0.1
+175,Cyprus,2019,0.1,LSD,Last month,Young adults (15-34),1572.0,0.1,0.0,0.1
+176,Cyprus,2019,80.3,Alcohol,Lifetime,Adults (15-64),3511.0,87.8,73.1,14.700000000000003
+177,Cyprus,2019,83.5,Alcohol,Lifetime,Young adults (15-34),1572.0,87.8,79.2,8.599999999999994
+178,Cyprus,2019,74.4,Alcohol,Last year,Adults (15-64),3511.0,83.7,65.7,18.0
+179,Cyprus,2019,79.9,Alcohol,Last year,Young adults (15-34),1572.0,86.1,73.7,12.399999999999991
+180,Cyprus,2019,62.1,Alcohol,Last month,Adults (15-64),3511.0,74.6,50.3,24.299999999999997
+181,Cyprus,2019,65.6,Alcohol,Last month,Young adults (15-34),1572.0,74.4,56.9,17.500000000000007
+182,Cyprus,2019,54.8,Tobacco,Lifetime,Adults (15-64),3511.0,70.5,40.0,30.5
+183,Cyprus,2019,55.1,Tobacco,Lifetime,Young adults (15-34),1572.0,66.5,43.8,22.700000000000003
+184,Cyprus,2019,38.7,Tobacco,Last year,Adults (15-64),3511.0,50.8,27.3,23.499999999999996
+185,Cyprus,2019,43.3,Tobacco,Last year,Young adults (15-34),1572.0,55.1,31.7,23.400000000000002
+186,Cyprus,2019,37.9,Tobacco,Last month,Adults (15-64),3511.0,49.8,26.8,22.999999999999996
+187,Cyprus,2019,42.2,Tobacco,Last month,Young adults (15-34),1572.0,53.9,30.7,23.2
+188,Czechia,2020,29.9,Cannabis,Lifetime,Adults (15-64),2701.0,38.2,21.3,16.900000000000002
+189,Czechia,2020,44.1,Cannabis,Lifetime,Young adults (15-34),927.0,56.7,30.8,25.900000000000002
+190,Czechia,2020,11.1,Cannabis,Last year,Adults (15-64),2701.0,15.9,6.2,9.7
+191,Czechia,2020,22.9,Cannabis,Last year,Young adults (15-34),927.0,31.9,13.3,18.599999999999998
+192,Czechia,2020,6.8,Cannabis,Last month,Adults (15-64),2701.0,10.8,2.6,8.200000000000001
+193,Czechia,2020,13.9,Cannabis,Last month,Young adults (15-34),927.0,22.1,5.3,16.8
+194,Czechia,2020,2.7,Cocaine,Lifetime,Adults (15-64),2701.0,3.8,1.4,2.4
+195,Czechia,2020,4.5,Cocaine,Lifetime,Young adults (15-34),927.0,6.5,2.4,4.1
+196,Czechia,2020,0.9,Cocaine,Last year,Adults (15-64),2701.0,1.3,0.5,0.8
+197,Czechia,2020,1.8,Cocaine,Last year,Young adults (15-34),927.0,2.7,0.9,1.8000000000000003
+198,Czechia,2020,0.1,Cocaine,Last month,Adults (15-64),2701.0,0.1,0.2,-0.1
+199,Czechia,2020,0.3,Cocaine,Last month,Young adults (15-34),927.0,0.2,0.4,-0.2
+200,Czechia,2020,3.4,Amphetamines,Lifetime,Adults (15-64),2701.0,4.9,1.9,3.0000000000000004
+201,Czechia,2020,6.1,Amphetamines,Lifetime,Young adults (15-34),927.0,8.8,3.3,5.500000000000001
+202,Czechia,2020,0.9,Amphetamines,Last year,Adults (15-64),2701.0,1.3,0.5,0.8
+203,Czechia,2020,2.0,Amphetamines,Last year,Young adults (15-34),927.0,2.7,1.3,1.4000000000000001
+204,Czechia,2020,0.3,Amphetamines,Last month,Adults (15-64),2701.0,0.6,0.0,0.6
+205,Czechia,2020,0.6,Amphetamines,Last month,Young adults (15-34),927.0,1.3,0.0,1.3
+206,Czechia,2020,9.1,Ecstasy,Lifetime,Adults (15-64),2701.0,12.1,6.0,6.1
+207,Czechia,2020,18.6,Ecstasy,Lifetime,Young adults (15-34),927.0,24.2,12.6,11.6
+208,Czechia,2020,1.9,Ecstasy,Last year,Adults (15-64),2701.0,2.5,1.1,1.4
+209,Czechia,2020,4.7,Ecstasy,Last year,Young adults (15-34),927.0,6.3,3.1,3.1999999999999997
+210,Czechia,2020,0.5,Ecstasy,Last month,Adults (15-64),2701.0,0.4,0.5,-0.09999999999999998
+211,Czechia,2020,1.3,Ecstasy,Last month,Young adults (15-34),927.0,1.1,1.6,-0.5
+212,Czechia,2020,2.6,LSD,Lifetime,Adults (15-64),2701.0,3.3,1.9,1.4
+213,Czechia,2020,5.2,LSD,Lifetime,Young adults (15-34),927.0,6.3,4.0,2.3
+214,Czechia,2020,0.8,LSD,Last year,Adults (15-64),2701.0,0.9,0.7,0.20000000000000007
+215,Czechia,2020,1.8,LSD,Last year,Young adults (15-34),927.0,2.1,1.6,0.5
+216,Czechia,2020,0.2,LSD,Last month,Adults (15-64),2701.0,0.3,0.1,0.19999999999999998
+217,Czechia,2020,0.4,LSD,Last month,Young adults (15-34),927.0,0.8,0.0,0.8
+218,Czechia,2012,84.0,Alcohol,Last year,Adults (15-64),2108.0,88.8,79.4,9.399999999999991
+219,Czechia,2012,83.8,Alcohol,Last year,Young adults (15-34),824.0,86.2,81.4,4.799999999999997
+220,Czechia,2012,69.9,Alcohol,Last month,Adults (15-64),2108.0,78.4,61.5,16.900000000000006
+221,Czechia,2012,68.8,Alcohol,Last month,Young adults (15-34),824.0,73.7,63.8,9.900000000000006
+222,Czechia,2012,68.3,Tobacco,Lifetime,Adults (15-64),2108.0,75.0,61.7,13.299999999999997
+223,Czechia,2012,70.4,Tobacco,Lifetime,Young adults (15-34),824.0,72.1,68.6,3.5
+224,Czechia,2012,40.7,Tobacco,Last year,Adults (15-64),2108.0,46.5,35.0,11.5
+225,Czechia,2012,47.1,Tobacco,Last year,Young adults (15-34),824.0,51.3,42.7,8.599999999999994
+226,Czechia,2012,34.4,Tobacco,Last month,Adults (15-64),2108.0,40.3,28.6,11.699999999999996
+227,Czechia,2012,37.2,Tobacco,Last month,Young adults (15-34),824.0,42.5,31.7,10.8
+228,Denmark,2021,37.9,Cannabis,Lifetime,Adults (15-64),7378.0,44.0,32.0,12.0
+229,Denmark,2021,42.6,Cannabis,Lifetime,Young adults (15-34),2274.0,46.9,38.2,8.699999999999996
+230,Denmark,2021,6.3,Cannabis,Last year,Adults (15-64),7378.0,8.3,4.3,4.000000000000001
+231,Denmark,2021,12.0,Cannabis,Last year,Young adults (15-34),2274.0,15.1,9.0,6.1
+232,Denmark,2021,2.9,Cannabis,Last month,Adults (15-64),7378.0,4.0,1.8,2.2
+233,Denmark,2021,4.7,Cannabis,Last month,Young adults (15-34),2274.0,6.4,3.1,3.3000000000000003
+234,Denmark,2021,8.1,Cocaine,Lifetime,Adults (15-64),7378.0,11.0,5.3,5.7
+235,Denmark,2021,11.0,Cocaine,Lifetime,Young adults (15-34),2274.0,13.8,8.1,5.700000000000001
+236,Denmark,2021,1.5,Cocaine,Last year,Adults (15-64),7378.0,2.2,0.8,1.4000000000000001
+237,Denmark,2021,2.9,Cocaine,Last year,Young adults (15-34),2274.0,3.9,1.9,2.0
+238,Denmark,2021,0.4,Cocaine,Last month,Adults (15-64),7378.0,0.7,0.2,0.49999999999999994
+239,Denmark,2021,0.7,Cocaine,Last month,Young adults (15-34),2274.0,1.0,0.4,0.6
+240,Denmark,2021,7.9,Amphetamines,Lifetime,Adults (15-64),7378.0,11.0,4.9,6.1
+241,Denmark,2021,8.1,Amphetamines,Lifetime,Young adults (15-34),2274.0,10.4,5.8,4.6000000000000005
+242,Denmark,2021,0.7,Amphetamines,Last year,Adults (15-64),7378.0,1.3,0.2,1.1
+243,Denmark,2021,1.4,Amphetamines,Last year,Young adults (15-34),2274.0,2.2,0.6,1.6
+244,Denmark,2021,0.2,Amphetamines,Last month,Adults (15-64),7378.0,0.4,0.1,0.30000000000000004
+245,Denmark,2021,0.3,Amphetamines,Last month,Young adults (15-34),2274.0,0.5,0.2,0.3
+246,Denmark,2021,4.0,Ecstasy,Lifetime,Adults (15-64),7378.0,5.4,2.6,2.8000000000000003
+247,Denmark,2021,5.9,Ecstasy,Lifetime,Young adults (15-34),2274.0,7.9,4.0,3.9000000000000004
+248,Denmark,2021,0.5,Ecstasy,Last year,Adults (15-64),7378.0,0.7,0.4,0.29999999999999993
+249,Denmark,2021,1.2,Ecstasy,Last year,Young adults (15-34),2274.0,1.5,0.9,0.6
+250,Denmark,2021,0.1,Ecstasy,Last month,Adults (15-64),7378.0,0.1,0.1,0.0
+251,Denmark,2021,0.1,Ecstasy,Last month,Young adults (15-34),2274.0,0.1,0.1,0.0
+252,Denmark,2021,2.3,LSD,Lifetime,Adults (15-64),7378.0,3.6,1.1,2.5
+253,Denmark,2021,3.3,LSD,Lifetime,Young adults (15-34),2274.0,5.2,1.5,3.7
+254,Denmark,2021,0.2,LSD,Last year,Adults (15-64),7378.0,0.3,0.1,0.19999999999999998
+255,Denmark,2021,0.4,LSD,Last year,Young adults (15-34),2274.0,0.6,0.3,0.3
+256,Denmark,2021,0.0,LSD,Last month,Adults (15-64),7378.0,0.0,0.1,-0.1
+257,Denmark,2021,0.1,LSD,Last month,Young adults (15-34),2274.0,0.0,0.2,-0.2
+258,Estonia,2018,24.5,Cannabis,Lifetime,Adults (15-64),2234.0,30.8,20.3,10.5
+259,Estonia,2018,46.0,Cannabis,Lifetime,Young adults (15-34),757.0,52.5,41.5,11.0
+260,Estonia,2018,6.6,Cannabis,Last year,Adults (15-64),2234.0,9.2,4.8,4.3999999999999995
+261,Estonia,2018,16.6,Cannabis,Last year,Young adults (15-34),757.0,22.7,12.4,10.299999999999999
+262,Estonia,2018,2.3,Cannabis,Last month,Adults (15-64),2234.0,3.5,1.5,2.0
+263,Estonia,2018,5.7,Cannabis,Last month,Young adults (15-34),757.0,9.0,3.4,5.6
+264,Estonia,2018,5.0,Cocaine,Lifetime,Adults (15-64),2234.0,7.0,3.7,3.3
+265,Estonia,2018,8.6,Cocaine,Lifetime,Young adults (15-34),757.0,10.4,7.3,3.1000000000000005
+266,Estonia,2018,1.0,Cocaine,Last year,Adults (15-64),2234.0,1.3,0.8,0.5
+267,Estonia,2018,2.8,Cocaine,Last year,Young adults (15-34),757.0,3.2,2.5,0.7000000000000002
+268,Estonia,2018,0.3,Cocaine,Last month,Adults (15-64),2234.0,0.6,0.1,0.5
+269,Estonia,2018,0.7,Cocaine,Last month,Young adults (15-34),757.0,1.3,0.2,1.1
+270,Estonia,2018,6.1,Amphetamines,Lifetime,Adults (15-64),2234.0,8.6,4.4,4.199999999999999
+271,Estonia,2018,9.1,Amphetamines,Lifetime,Young adults (15-34),757.0,12.0,7.1,4.9
+272,Estonia,2018,0.9,Amphetamines,Last year,Adults (15-64),2234.0,1.7,0.5,1.2
+273,Estonia,2018,2.1,Amphetamines,Last year,Young adults (15-34),757.0,3.9,0.9,3.0
+274,Estonia,2018,0.4,Amphetamines,Last month,Adults (15-64),2234.0,0.9,0.1,0.8
+275,Estonia,2018,0.8,Amphetamines,Last month,Young adults (15-34),757.0,1.9,0.0,1.9
+276,Estonia,2018,5.4,Ecstasy,Lifetime,Adults (15-64),2234.0,7.5,4.0,3.5
+277,Estonia,2018,10.9,Ecstasy,Lifetime,Young adults (15-34),757.0,14.4,8.5,5.9
+278,Estonia,2018,1.0,Ecstasy,Last year,Adults (15-64),2234.0,1.5,0.6,0.9
+279,Estonia,2018,2.5,Ecstasy,Last year,Young adults (15-34),757.0,3.5,1.8,1.7
+280,Estonia,2018,0.2,Ecstasy,Last month,Adults (15-64),2234.0,0.4,0.1,0.30000000000000004
+281,Estonia,2018,0.5,Ecstasy,Last month,Young adults (15-34),757.0,1.0,0.2,0.8
+282,Estonia,2018,1.9,LSD,Lifetime,Adults (15-64),2234.0,2.9,1.2,1.7
+283,Estonia,2018,4.2,LSD,Lifetime,Young adults (15-34),757.0,6.7,2.5,4.2
+284,Estonia,2018,0.7,LSD,Last year,Adults (15-64),2234.0,1.0,0.5,0.5
+285,Estonia,2018,1.7,LSD,Last year,Young adults (15-34),757.0,2.3,1.4,0.8999999999999999
+286,Estonia,2018,0.1,LSD,Last month,Adults (15-64),2234.0,0.2,0.1,0.1
+287,Estonia,2018,0.1,LSD,Last month,Young adults (15-34),757.0,0.0,0.2,-0.2
+288,Estonia,2018,85.4,Alcohol,Last year,Adults (15-64),2234.0,88.4,83.4,5.0
+289,Estonia,2018,84.4,Alcohol,Last year,Young adults (15-34),757.0,86.2,83.2,3.0
+290,Estonia,2018,55.3,Tobacco,Lifetime,Adults (15-64),2234.0,66.3,47.8,18.5
+291,Estonia,2018,53.8,Tobacco,Lifetime,Young adults (15-34),757.0,60.5,49.2,11.299999999999997
+292,Estonia,2018,26.2,Tobacco,Last year,Adults (15-64),2234.0,34.7,20.3,14.400000000000002
+293,Estonia,2018,27.3,Tobacco,Last year,Young adults (15-34),757.0,34.3,22.3,11.999999999999996
+294,Finland,2018,25.6,Cannabis,Lifetime,Adults (15-64),2957.0,29.8,21.3,8.5
+295,Finland,2018,35.3,Cannabis,Lifetime,Young adults (15-34),1515.0,38.6,32.0,6.600000000000001
+296,Finland,2018,8.2,Cannabis,Last year,Adults (15-64),2957.0,11.2,5.2,5.999999999999999
+297,Finland,2018,15.5,Cannabis,Last year,Young adults (15-34),1515.0,20.1,10.9,9.200000000000001
+298,Finland,2018,3.4,Cannabis,Last month,Adults (15-64),2957.0,5.0,1.8,3.2
+299,Finland,2018,6.2,Cannabis,Last month,Young adults (15-34),1515.0,8.6,3.6,5.0
+300,Finland,2018,3.2,Cocaine,Lifetime,Adults (15-64),2957.0,4.8,1.5,3.3
+301,Finland,2018,4.4,Cocaine,Lifetime,Young adults (15-34),1515.0,6.1,2.6,3.4999999999999996
+302,Finland,2018,0.9,Cocaine,Last year,Adults (15-64),2957.0,1.4,0.5,0.8999999999999999
+303,Finland,2018,1.5,Cocaine,Last year,Young adults (15-34),1515.0,2.1,0.9,1.2000000000000002
+304,Finland,2018,0.2,Cocaine,Last month,Adults (15-64),2957.0,0.4,0.1,0.30000000000000004
+305,Finland,2018,0.3,Cocaine,Last month,Young adults (15-34),1515.0,0.5,0.1,0.4
+306,Finland,2018,4.7,Amphetamines,Lifetime,Adults (15-64),2957.0,6.8,2.6,4.199999999999999
+307,Finland,2018,6.9,Amphetamines,Lifetime,Young adults (15-34),1515.0,9.2,4.5,4.699999999999999
+308,Finland,2018,1.7,Amphetamines,Last year,Adults (15-64),2957.0,2.5,0.9,1.6
+309,Finland,2018,3.0,Amphetamines,Last year,Young adults (15-34),1515.0,4.5,1.5,3.0
+310,Finland,2018,0.6,Amphetamines,Last month,Adults (15-64),2957.0,0.7,0.4,0.29999999999999993
+311,Finland,2018,0.7,Amphetamines,Last month,Young adults (15-34),1515.0,0.8,0.6,0.20000000000000007
+312,Finland,2018,5.0,Ecstasy,Lifetime,Adults (15-64),2957.0,6.7,3.3,3.4000000000000004
+313,Finland,2018,8.1,Ecstasy,Lifetime,Young adults (15-34),1515.0,10.2,6.0,4.199999999999999
+314,Finland,2018,1.4,Ecstasy,Last year,Adults (15-64),2957.0,1.9,0.8,1.0999999999999999
+315,Finland,2018,2.6,Ecstasy,Last year,Young adults (15-34),1515.0,3.9,1.3,2.5999999999999996
+316,Finland,2018,0.2,Ecstasy,Last month,Adults (15-64),2957.0,0.4,0.0,0.4
+317,Finland,2018,0.5,Ecstasy,Last month,Young adults (15-34),1515.0,0.8,0.1,0.7000000000000001
+318,Finland,2018,3.0,LSD,Lifetime,Adults (15-64),2957.0,4.6,1.4,3.1999999999999997
+319,Finland,2018,5.0,LSD,Lifetime,Young adults (15-34),1515.0,7.5,2.4,5.1
+320,Finland,2018,0.8,LSD,Last year,Adults (15-64),2957.0,1.4,0.2,1.2
+321,Finland,2018,2.0,LSD,Last year,Young adults (15-34),1515.0,3.4,0.6,2.8
+322,Finland,2018,0.2,LSD,Last month,Adults (15-64),2957.0,0.3,0.0,0.3
+323,Finland,2018,0.4,LSD,Last month,Young adults (15-34),1515.0,0.8,0.0,0.8
+324,Finland,2018,92.3,Alcohol,Lifetime,Adults (15-64),2957.0,92.2,92.5,-0.29999999999999716
+325,Finland,2018,88.2,Alcohol,Lifetime,Young adults (15-34),1515.0,87.5,89.3,-1.7999999999999972
+326,Finland,2018,84.4,Alcohol,Last year,Adults (15-64),2957.0,86.4,82.5,3.9000000000000057
+327,Finland,2018,82.8,Alcohol,Last year,Young adults (15-34),1515.0,83.3,82.7,0.5999999999999943
+328,Finland,2018,70.0,Alcohol,Last month,Adults (15-64),2957.0,75.4,64.6,10.800000000000011
+329,Finland,2018,66.8,Alcohol,Last month,Young adults (15-34),1515.0,69.6,64.1,5.5
+330,Finland,2018,52.1,Tobacco,Lifetime,Adults (15-64),2957.0,57.7,46.4,11.300000000000004
+331,Finland,2018,47.2,Tobacco,Lifetime,Young adults (15-34),1515.0,51.1,43.4,7.700000000000003
+332,France,2021,47.3,Cannabis,Lifetime,Adults (15-64),18298.0,54.9,39.9,15.0
+333,France,2021,54.5,Cannabis,Lifetime,Young adults (15-34),5255.0,60.4,48.8,11.600000000000001
+334,France,2021,10.6,Cannabis,Last year,Adults (15-64),18298.0,14.2,7.2,6.999999999999999
+335,France,2021,19.2,Cannabis,Last year,Young adults (15-34),5255.0,24.7,13.7,11.0
+336,France,2021,5.9,Cannabis,Last month,Adults (15-64),18298.0,8.3,3.5,4.800000000000001
+337,France,2021,10.3,Cannabis,Last month,Young adults (15-34),5255.0,13.9,6.7,7.2
+338,France,2017,5.6,Cocaine,Lifetime,Adults (15-64),20665.0,8.1,3.2,4.8999999999999995
+339,France,2017,7.9,Cocaine,Lifetime,Young adults (15-34),5994.0,10.6,5.3,5.3
+340,France,2017,1.6,Cocaine,Last year,Adults (15-64),20665.0,2.3,0.9,1.4
+341,France,2017,3.2,Cocaine,Last year,Young adults (15-34),5994.0,4.3,2.1,2.1999999999999997
+342,France,2017,2.2,Amphetamines,Lifetime,Adults (15-64),20665.0,3.2,1.2,2.0
+343,France,2017,3.1,Amphetamines,Lifetime,Young adults (15-34),5994.0,4.5,1.7,2.8
+344,France,2017,0.3,Amphetamines,Last year,Adults (15-64),20665.0,0.5,0.1,0.4
+345,France,2017,0.6,Amphetamines,Last year,Young adults (15-34),5994.0,1.0,0.2,0.8
+346,France,2017,3.9,Ecstasy,Lifetime,Adults (15-64),20665.0,5.7,2.1,3.6
+347,France,2017,5.6,Ecstasy,Lifetime,Young adults (15-34),5994.0,7.9,3.4,4.5
+348,France,2017,0.6,Ecstasy,Last year,Adults (15-64),20665.0,0.8,0.3,0.5
+349,France,2017,1.3,Ecstasy,Last year,Young adults (15-34),5994.0,1.8,0.8,1.0
+350,France,2017,2.7,LSD,Lifetime,Adults (15-64),20665.0,4.0,1.4,2.6
+351,France,2017,3.7,LSD,Lifetime,Young adults (15-34),5994.0,5.0,2.4,2.6
+352,France,2017,0.4,LSD,Last year,Adults (15-64),20665.0,0.5,0.2,0.3
+353,France,2017,0.8,LSD,Last year,Young adults (15-34),5994.0,1.1,0.5,0.6000000000000001
+354,France,2014,94.9,Alcohol,Lifetime,Adults (15-64),13488.0,96.3,93.5,2.799999999999997
+355,France,2014,91.9,Alcohol,Lifetime,Young adults (15-34),4529.0,94.3,89.6,4.700000000000003
+356,France,2014,85.8,Alcohol,Last year,Adults (15-64),13488.0,88.5,83.2,5.299999999999997
+357,France,2014,82.8,Alcohol,Last year,Young adults (15-34),4529.0,87.6,78.0,9.599999999999994
+358,France,2017,76.3,Tobacco,Lifetime,Adults (15-64),20665.0,80.5,72.3,8.200000000000003
+359,France,2017,75.0,Tobacco,Lifetime,Young adults (15-34),5994.0,79.1,71.0,8.099999999999994
+360,France,2017,35.7,Tobacco,Last year,Adults (15-64),20665.0,39.1,32.4,6.700000000000003
+361,France,2017,43.1,Tobacco,Last year,Young adults (15-34),5994.0,48.2,38.2,10.0
+362,Germany,2021,34.7,Cannabis,Lifetime,Adults (15-64),9046.0,38.9,30.2,8.7
+363,Germany,2021,45.6,Cannabis,Lifetime,Young adults (15-34),4103.0,50.1,40.8,9.300000000000004
+364,Germany,2021,8.8,Cannabis,Last year,Adults (15-64),9046.0,10.7,6.8,3.8999999999999995
+365,Germany,2021,17.2,Cannabis,Last year,Young adults (15-34),4103.0,19.8,14.3,5.5
+366,Germany,2021,4.3,Cannabis,Last month,Adults (15-64),9046.0,5.7,2.9,2.8000000000000003
+367,Germany,2021,8.4,Cannabis,Last month,Young adults (15-34),4103.0,10.5,6.1,4.4
+368,Germany,2021,5.6,Cocaine,Lifetime,Adults (15-64),9046.0,7.1,4.0,3.0999999999999996
+369,Germany,2021,6.9,Cocaine,Lifetime,Young adults (15-34),4103.0,8.4,5.4,3.0
+370,Germany,2021,1.6,Cocaine,Last year,Adults (15-64),9046.0,2.1,1.1,1.0
+371,Germany,2021,3.1,Cocaine,Last year,Young adults (15-34),4103.0,3.9,2.2,1.6999999999999997
+372,Germany,2021,0.6,Cocaine,Last month,Adults (15-64),9046.0,0.8,0.4,0.4
+373,Germany,2021,0.9,Cocaine,Last month,Young adults (15-34),4103.0,1.2,0.6,0.6
+374,Germany,2021,6.1,Amphetamines,Lifetime,Adults (15-64),9046.0,7.7,4.4,3.3
+375,Germany,2021,7.9,Amphetamines,Lifetime,Young adults (15-34),4103.0,9.7,5.9,3.799999999999999
+376,Germany,2021,1.4,Amphetamines,Last year,Adults (15-64),9046.0,1.5,1.3,0.19999999999999996
+377,Germany,2021,2.9,Amphetamines,Last year,Young adults (15-34),4103.0,3.4,2.4,1.0
+378,Germany,2021,0.7,Amphetamines,Last month,Adults (15-64),9046.0,0.7,0.7,0.0
+379,Germany,2021,1.3,Amphetamines,Last month,Young adults (15-34),4103.0,1.6,1.0,0.6000000000000001
+380,Germany,2021,5.6,Ecstasy,Lifetime,Adults (15-64),9046.0,7.1,4.0,3.0999999999999996
+381,Germany,2021,8.0,Ecstasy,Lifetime,Young adults (15-34),4103.0,9.7,6.3,3.3999999999999995
+382,Germany,2021,1.0,Ecstasy,Last year,Adults (15-64),9046.0,1.4,0.7,0.7
+383,Germany,2021,2.7,Ecstasy,Last year,Young adults (15-34),4103.0,3.8,1.6,2.1999999999999997
+384,Germany,2021,0.4,Ecstasy,Last month,Adults (15-64),9046.0,0.4,0.3,0.10000000000000003
+385,Germany,2021,0.8,Ecstasy,Last month,Young adults (15-34),4103.0,1.2,0.4,0.7999999999999999
+386,Germany,2021,3.4,LSD,Lifetime,Adults (15-64),9046.0,4.8,2.0,2.8
+387,Germany,2021,4.4,LSD,Lifetime,Young adults (15-34),4103.0,6.0,2.6,3.4
+388,Germany,2021,0.6,LSD,Last year,Adults (15-64),9046.0,0.8,0.4,0.4
+389,Germany,2021,1.5,LSD,Last year,Young adults (15-34),4103.0,2.1,0.9,1.2000000000000002
+390,Germany,2021,0.2,LSD,Last month,Adults (15-64),9046.0,0.2,0.2,0.0
+391,Germany,2021,0.3,LSD,Last month,Young adults (15-34),4103.0,0.5,0.1,0.4
+392,Germany,2021,95.3,Alcohol,Lifetime,Adults (15-64),9046.0,95.8,94.8,1.0
+393,Germany,2021,93.2,Alcohol,Lifetime,Young adults (15-34),4103.0,93.8,92.6,1.2000000000000028
+394,Germany,2021,84.7,Alcohol,Last year,Adults (15-64),9046.0,86.5,82.8,3.700000000000003
+395,Germany,2021,83.3,Alcohol,Last year,Young adults (15-34),4103.0,86.0,80.4,5.599999999999994
+396,Germany,2021,70.5,Alcohol,Last month,Adults (15-64),9046.0,74.8,66.0,8.799999999999997
+397,Germany,2021,68.4,Alcohol,Last month,Young adults (15-34),4103.0,73.1,63.3,9.799999999999997
+398,Germany,2021,47.1,Tobacco,Lifetime,Adults (15-64),9046.0,51.8,42.3,9.5
+399,Germany,2021,35.3,Tobacco,Lifetime,Young adults (15-34),4103.0,41.2,29.1,12.100000000000001
+400,Germany,2021,25.2,Tobacco,Last year,Adults (15-64),9046.0,28.9,21.5,7.399999999999999
+401,Germany,2021,26.6,Tobacco,Last year,Young adults (15-34),4103.0,32.2,20.7,11.500000000000004
+402,Germany,2021,22.7,Tobacco,Last month,Adults (15-64),9046.0,25.7,19.5,6.199999999999999
+403,Germany,2021,23.1,Tobacco,Last month,Young adults (15-34),4103.0,28.5,17.5,11.0
+404,Greece,2015,11.0,Cannabis,Lifetime,Adults (15-64),1519.0,15.8,6.3,9.5
+405,Greece,2015,10.6,Cannabis,Lifetime,Young adults (15-34),464.0,12.0,9.0,3.0
+406,Greece,2015,2.8,Cannabis,Last year,Adults (15-64),1519.0,4.1,1.6,2.4999999999999996
+407,Greece,2015,4.5,Cannabis,Last year,Young adults (15-34),464.0,5.4,3.6,1.8000000000000003
+408,Greece,2015,1.3,Cannabis,Last month,Adults (15-64),1519.0,1.7,0.8,0.8999999999999999
+409,Greece,2015,2.0,Cannabis,Last month,Young adults (15-34),464.0,1.7,2.3,-0.5999999999999999
+410,Greece,2015,1.3,Cocaine,Lifetime,Adults (15-64),1519.0,1.9,0.8,1.0999999999999999
+411,Greece,2015,1.3,Cocaine,Lifetime,Young adults (15-34),464.0,1.2,1.4,-0.19999999999999996
+412,Greece,2015,0.4,Cocaine,Last year,Adults (15-64),1519.0,0.5,0.3,0.2
+413,Greece,2015,0.6,Cocaine,Last year,Young adults (15-34),464.0,0.8,0.5,0.30000000000000004
+414,Greece,2015,0.2,Cocaine,Last month,Adults (15-64),1519.0,0.4,0.0,0.4
+415,Greece,2015,0.2,Cocaine,Last month,Young adults (15-34),464.0,0.4,0.0,0.4
+416,Greece,2015,0.6,Ecstasy,Lifetime,Adults (15-64),1519.0,0.9,0.3,0.6000000000000001
+417,Greece,2015,0.4,Ecstasy,Lifetime,Young adults (15-34),464.0,0.4,0.5,-0.09999999999999998
+418,Greece,2015,0.2,Ecstasy,Last year,Adults (15-64),1519.0,0.3,0.1,0.19999999999999998
+419,Greece,2015,0.4,Ecstasy,Last year,Young adults (15-34),464.0,0.4,0.5,-0.09999999999999998
+420,Greece,2015,0.1,Ecstasy,Last month,Adults (15-64),1519.0,0.1,0.0,0.1
+421,Greece,2015,0.2,Ecstasy,Last month,Young adults (15-34),464.0,0.4,0.0,0.4
+422,Greece,2015,0.5,LSD,Lifetime,Adults (15-64),1519.0,0.8,0.3,0.5
+423,Greece,2015,0.2,LSD,Lifetime,Young adults (15-34),464.0,0.0,0.5,-0.5
+424,Greece,2015,0.0,LSD,Last year,Adults (15-64),1519.0,0.0,0.0,0.0
+425,Greece,2015,0.0,LSD,Last year,Young adults (15-34),464.0,0.0,0.0,0.0
+426,Greece,2015,0.0,LSD,Last month,Adults (15-64),1519.0,0.0,0.0,0.0
+427,Greece,2015,0.0,LSD,Last month,Young adults (15-34),464.0,0.0,0.0,0.0
+428,Greece,2015,97.6,Alcohol,Lifetime,Adults (15-64),1519.0,99.3,95.8,3.5
+429,Greece,2015,98.9,Alcohol,Lifetime,Young adults (15-34),464.0,99.6,98.2,1.3999999999999915
+430,Greece,2015,92.0,Alcohol,Last year,Adults (15-64),1519.0,95.1,89.0,6.099999999999994
+431,Greece,2015,96.6,Alcohol,Last year,Young adults (15-34),464.0,97.5,95.5,2.0
+432,Greece,2015,65.3,Tobacco,Lifetime,Adults (15-64),1519.0,70.4,60.2,10.200000000000003
+433,Greece,2015,57.1,Tobacco,Lifetime,Young adults (15-34),464.0,57.9,56.3,1.6000000000000014
+434,Greece,2015,41.1,Tobacco,Last month,Adults (15-64),1519.0,42.1,40.0,2.1000000000000014
+435,Greece,2015,38.1,Tobacco,Last month,Young adults (15-34),464.0,38.8,37.4,1.3999999999999986
+436,Hungary,2019,6.1,Cannabis,Lifetime,Adults (15-64),1385.0,8.4,4.0,4.4
+437,Hungary,2019,10.8,Cannabis,Lifetime,Young adults (15-34),442.0,15.3,6.5,8.8
+438,Hungary,2019,1.3,Cannabis,Last year,Adults (15-64),1385.0,2.0,0.6,1.4
+439,Hungary,2019,3.4,Cannabis,Last year,Young adults (15-34),442.0,5.4,1.0,4.4
+440,Hungary,2019,0.9,Cannabis,Last month,Adults (15-64),1385.0,1.5,0.4,1.1
+441,Hungary,2019,2.6,Cannabis,Last month,Young adults (15-34),442.0,4.5,0.5,4.0
+442,Hungary,2019,1.7,Cocaine,Lifetime,Adults (15-64),1385.0,1.8,1.5,0.30000000000000004
+443,Hungary,2019,2.6,Cocaine,Lifetime,Young adults (15-34),442.0,3.5,1.5,2.0
+444,Hungary,2019,0.3,Cocaine,Last year,Adults (15-64),1385.0,0.5,0.3,0.2
+445,Hungary,2019,0.6,Cocaine,Last year,Young adults (15-34),442.0,1.5,0.0,1.5
+446,Hungary,2019,0.2,Cocaine,Last month,Adults (15-64),1385.0,0.3,0.3,0.0
+447,Hungary,2019,0.4,Cocaine,Last month,Young adults (15-34),442.0,1.0,0.0,1.0
+448,Hungary,2019,1.5,Amphetamines,Lifetime,Adults (15-64),1385.0,2.0,1.2,0.8
+449,Hungary,2019,2.6,Amphetamines,Lifetime,Young adults (15-34),442.0,4.0,1.0,3.0
+450,Hungary,2019,0.4,Amphetamines,Last year,Adults (15-64),1385.0,0.5,0.3,0.2
+451,Hungary,2019,0.8,Amphetamines,Last year,Young adults (15-34),442.0,1.5,0.0,1.5
+452,Hungary,2019,0.3,Amphetamines,Last month,Adults (15-64),1385.0,0.5,0.3,0.2
+453,Hungary,2019,0.6,Amphetamines,Last month,Young adults (15-34),442.0,1.5,0.0,1.5
+454,Hungary,2019,2.5,Ecstasy,Lifetime,Adults (15-64),1385.0,3.3,1.9,1.4
+455,Hungary,2019,4.7,Ecstasy,Lifetime,Young adults (15-34),442.0,7.4,2.0,5.4
+456,Hungary,2019,0.6,Ecstasy,Last year,Adults (15-64),1385.0,1.2,0.3,0.8999999999999999
+457,Hungary,2019,1.1,Ecstasy,Last year,Young adults (15-34),442.0,2.5,0.0,2.5
+458,Hungary,2019,0.4,Ecstasy,Last month,Adults (15-64),1385.0,0.7,0.3,0.39999999999999997
+459,Hungary,2019,0.9,Ecstasy,Last month,Young adults (15-34),442.0,2.0,0.0,2.0
+460,Hungary,2019,0.9,LSD,Lifetime,Adults (15-64),1385.0,1.3,0.6,0.7000000000000001
+461,Hungary,2019,1.4,LSD,Lifetime,Young adults (15-34),442.0,3.0,0.0,3.0
+462,Hungary,2019,0.1,LSD,Last year,Adults (15-64),1385.0,0.3,0.0,0.3
+463,Hungary,2019,0.4,LSD,Last year,Young adults (15-34),442.0,1.0,0.0,1.0
+464,Hungary,2019,0.1,LSD,Last month,Adults (15-64),1385.0,0.3,0.0,0.3
+465,Hungary,2019,0.4,LSD,Last month,Young adults (15-34),442.0,1.0,0.0,1.0
+466,Hungary,2019,70.4,Alcohol,Last year,Adults (15-64),1385.0,84.6,57.2,27.39999999999999
+467,Hungary,2019,72.0,Alcohol,Last year,Young adults (15-34),442.0,83.0,60.4,22.6
+468,Hungary,2019,52.0,Alcohol,Last month,Adults (15-64),1385.0,72.4,34.0,38.400000000000006
+469,Hungary,2019,54.3,Alcohol,Last month,Young adults (15-34),442.0,72.1,36.2,35.89999999999999
+470,Hungary,2019,53.3,Tobacco,Lifetime,Adults (15-64),1385.0,62.3,45.3,17.0
+471,Hungary,2019,51.9,Tobacco,Lifetime,Young adults (15-34),442.0,57.3,46.5,10.799999999999997
+472,Hungary,2015,36.5,Tobacco,Last month,Adults (15-64),2274.0,45.6,28.6,17.0
+473,Hungary,2015,35.0,Tobacco,Last month,Young adults (15-34),1534.0,41.9,28.9,13.0
+516,Italy,2017,32.7,Cannabis,Lifetime,Adults (15-64),10502.0,39.1,26.4,12.700000000000003
+517,Italy,2017,41.4,Cannabis,Lifetime,Young adults (15-34),2937.0,44.8,37.7,7.099999999999994
+518,Italy,2017,10.2,Cannabis,Last year,Adults (15-64),10502.0,12.6,7.8,4.8
+519,Italy,2017,20.9,Cannabis,Last year,Young adults (15-34),2937.0,24.2,17.5,6.699999999999999
+520,Italy,2017,5.5,Cannabis,Last month,Adults (15-64),10502.0,7.4,3.6,3.8000000000000003
+521,Italy,2017,11.6,Cannabis,Last month,Young adults (15-34),2937.0,14.9,8.2,6.700000000000001
+522,Italy,2017,6.9,Cocaine,Lifetime,Adults (15-64),10502.0,8.9,4.8,4.1000000000000005
+523,Italy,2017,6.4,Cocaine,Lifetime,Young adults (15-34),2937.0,7.8,5.0,2.8
+524,Italy,2017,1.2,Cocaine,Last year,Adults (15-64),10502.0,1.5,0.9,0.6
+525,Italy,2017,1.7,Cocaine,Last year,Young adults (15-34),2937.0,1.8,1.7,0.10000000000000009
+526,Italy,2017,0.4,Cocaine,Last month,Adults (15-64),10502.0,0.6,0.2,0.39999999999999997
+527,Italy,2017,0.5,Cocaine,Last month,Young adults (15-34),2937.0,0.7,0.2,0.49999999999999994
+528,Italy,2017,2.4,Amphetamines,Lifetime,Adults (15-64),10502.0,3.1,1.8,1.3
+529,Italy,2017,1.9,Amphetamines,Lifetime,Young adults (15-34),2937.0,2.6,1.2,1.4000000000000001
+530,Italy,2017,0.1,Amphetamines,Last year,Adults (15-64),10502.0,0.1,0.1,0.0
+531,Italy,2017,0.3,Amphetamines,Last year,Young adults (15-34),2937.0,0.4,0.2,0.2
+532,Italy,2017,0.0,Amphetamines,Last month,Adults (15-64),10502.0,0.0,0.0,0.0
+533,Italy,2017,0.0,Amphetamines,Last month,Young adults (15-34),2937.0,0.0,0.1,-0.1
+534,Italy,2017,2.7,Ecstasy,Lifetime,Adults (15-64),10502.0,3.4,2.0,1.4
+535,Italy,2017,3.9,Ecstasy,Lifetime,Young adults (15-34),2937.0,4.5,3.3,1.2000000000000002
+536,Italy,2017,0.4,Ecstasy,Last year,Adults (15-64),10502.0,0.4,0.3,0.10000000000000003
+537,Italy,2017,0.8,Ecstasy,Last year,Young adults (15-34),2937.0,1.0,0.6,0.4
+538,Italy,2017,0.1,Ecstasy,Last month,Adults (15-64),10502.0,0.1,0.0,0.1
+539,Italy,2017,0.1,Ecstasy,Last month,Young adults (15-34),2937.0,0.2,0.0,0.2
+540,Italy,2017,1.7,LSD,Lifetime,Adults (15-64),10502.0,2.1,1.4,0.7000000000000002
+541,Italy,2017,1.3,LSD,Lifetime,Young adults (15-34),2937.0,1.4,1.1,0.2999999999999998
+542,Italy,2017,0.1,LSD,Last year,Adults (15-64),10502.0,0.1,0.1,0.0
+543,Italy,2017,0.1,LSD,Last year,Young adults (15-34),2937.0,0.1,0.1,0.0
+544,Italy,2017,0.0,LSD,Last month,Adults (15-64),10502.0,0.0,0.0,0.0
+545,Italy,2017,0.0,LSD,Last month,Young adults (15-34),2937.0,0.0,0.0,0.0
+546,Italy,2017,91.6,Alcohol,Lifetime,Adults (15-64),10502.0,95.5,87.7,7.799999999999997
+547,Italy,2017,93.3,Alcohol,Lifetime,Young adults (15-34),2937.0,93.2,93.5,-0.29999999999999716
+548,Italy,2017,83.7,Alcohol,Last year,Adults (15-64),10502.0,90.3,77.1,13.200000000000003
+549,Italy,2017,87.7,Alcohol,Last year,Young adults (15-34),2937.0,89.3,86.0,3.299999999999997
+550,Italy,2017,75.1,Alcohol,Last month,Adults (15-64),10502.0,83.0,67.3,15.700000000000003
+551,Italy,2017,76.5,Alcohol,Last month,Young adults (15-34),2937.0,79.3,73.6,5.700000000000003
+552,Italy,2017,60.2,Tobacco,Lifetime,Adults (15-64),10502.0,63.1,57.4,5.700000000000003
+553,Italy,2017,55.0,Tobacco,Lifetime,Young adults (15-34),2937.0,54.2,55.9,-1.6999999999999957
+554,Italy,2017,27.3,Tobacco,Last year,Adults (15-64),10502.0,29.0,25.6,3.3999999999999986
+555,Italy,2017,34.9,Tobacco,Last year,Young adults (15-34),2937.0,36.4,33.3,3.1000000000000014
+556,Italy,2017,22.5,Tobacco,Last month,Adults (15-64),10502.0,23.7,21.2,2.5
+557,Italy,2017,28.2,Tobacco,Last month,Young adults (15-34),2937.0,29.0,27.4,1.6000000000000014
+558,Latvia,2020,15.0,Cannabis,Lifetime,Adults (15-64),4616.0,22.0,8.2,13.8
+559,Latvia,2020,23.2,Cannabis,Lifetime,Young adults (15-34),1627.0,30.3,15.6,14.700000000000001
+560,Latvia,2020,3.9,Cannabis,Last year,Adults (15-64),4616.0,6.1,1.8,4.3
+561,Latvia,2020,8.2,Cannabis,Last year,Young adults (15-34),1627.0,12.0,4.3,7.7
+562,Latvia,2020,2.1,Cannabis,Last month,Adults (15-64),4616.0,3.4,0.9,2.5
+563,Latvia,2020,4.4,Cannabis,Last month,Young adults (15-34),1627.0,6.7,1.8,4.9
+564,Latvia,2020,2.7,Cocaine,Lifetime,Adults (15-64),4616.0,4.1,1.5,2.5999999999999996
+565,Latvia,2020,4.2,Cocaine,Lifetime,Young adults (15-34),1627.0,5.4,2.9,2.5000000000000004
+566,Latvia,2020,1.3,Cocaine,Last year,Adults (15-64),4616.0,1.7,0.9,0.7999999999999999
+567,Latvia,2020,2.2,Cocaine,Last year,Young adults (15-34),1627.0,2.7,1.7,1.0000000000000002
+568,Latvia,2020,1.1,Cocaine,Last month,Adults (15-64),4616.0,1.3,0.8,0.5
+569,Latvia,2020,2.0,Cocaine,Last month,Young adults (15-34),1627.0,2.4,1.7,0.7
+570,Latvia,2020,1.8,Amphetamines,Lifetime,Adults (15-64),4616.0,2.5,1.2,1.3
+571,Latvia,2020,2.6,Amphetamines,Lifetime,Young adults (15-34),1627.0,3.0,2.2,0.7999999999999998
+572,Latvia,2020,0.6,Amphetamines,Last year,Adults (15-64),4616.0,0.8,0.4,0.4
+573,Latvia,2020,1.2,Amphetamines,Last year,Young adults (15-34),1627.0,1.4,0.9,0.4999999999999999
+574,Latvia,2020,0.5,Amphetamines,Last month,Adults (15-64),4616.0,0.7,0.3,0.39999999999999997
+575,Latvia,2020,0.9,Amphetamines,Last month,Young adults (15-34),1627.0,1.1,0.8,0.30000000000000004
+576,Latvia,2020,1.9,Ecstasy,Lifetime,Adults (15-64),4616.0,2.7,1.2,1.5000000000000002
+577,Latvia,2020,3.4,Ecstasy,Lifetime,Young adults (15-34),1627.0,4.0,2.8,1.2000000000000002
+578,Latvia,2020,0.7,Ecstasy,Last year,Adults (15-64),4616.0,0.9,0.5,0.4
+579,Latvia,2020,1.6,Ecstasy,Last year,Young adults (15-34),1627.0,1.9,1.4,0.5
+580,Latvia,2020,0.6,Ecstasy,Last month,Adults (15-64),4616.0,0.8,0.4,0.4
+581,Latvia,2020,1.3,Ecstasy,Last month,Young adults (15-34),1627.0,1.5,1.0,0.5
+582,Latvia,2020,1.4,LSD,Lifetime,Adults (15-64),4616.0,2.1,0.7,1.4000000000000001
+583,Latvia,2020,2.5,LSD,Lifetime,Young adults (15-34),1627.0,3.5,1.4,2.1
+584,Latvia,2020,0.6,LSD,Last year,Adults (15-64),4616.0,1.0,0.3,0.7
+585,Latvia,2020,1.4,LSD,Last year,Young adults (15-34),1627.0,2.1,0.6,1.5
+586,Latvia,2020,0.4,LSD,Last month,Adults (15-64),4616.0,0.5,0.2,0.3
+587,Latvia,2020,0.9,LSD,Last month,Young adults (15-34),1627.0,1.2,0.5,0.7
+588,Latvia,2020,91.1,Alcohol,Lifetime,Adults (15-64),4616.0,92.2,90.0,2.200000000000003
+589,Latvia,2020,83.7,Alcohol,Lifetime,Young adults (15-34),1627.0,84.9,82.3,2.6000000000000085
+590,Latvia,2020,77.1,Alcohol,Last year,Adults (15-64),4616.0,79.6,74.8,4.799999999999997
+591,Latvia,2020,71.3,Alcohol,Last year,Young adults (15-34),1627.0,74.9,67.4,7.5
+592,Latvia,2015,54.6,Alcohol,Last month,Adults (15-64),4513.0,71.1,38.9,32.199999999999996
+593,Latvia,2020,75.4,Tobacco,Lifetime,Adults (15-64),4616.0,86.8,64.5,22.299999999999997
+594,Latvia,2020,72.4,Tobacco,Lifetime,Young adults (15-34),1627.0,79.9,64.4,15.5
+595,Latvia,2020,38.1,Tobacco,Last year,Adults (15-64),4616.0,52.2,24.5,27.700000000000003
+596,Latvia,2020,36.0,Tobacco,Last year,Young adults (15-34),1627.0,47.4,23.8,23.599999999999998
+597,Latvia,2020,36.1,Tobacco,Last month,Adults (15-64),4616.0,49.8,23.0,26.799999999999997
+598,Latvia,2020,33.9,Tobacco,Last month,Young adults (15-34),1627.0,44.7,22.3,22.400000000000002
+599,Lithuania,2021,13.7,Cannabis,Lifetime,Adults (15-64),2501.0,20.7,6.8,13.899999999999999
+600,Lithuania,2021,23.3,Cannabis,Lifetime,Young adults (15-34),902.0,31.2,14.5,16.7
+601,Lithuania,2021,4.3,Cannabis,Last year,Adults (15-64),2501.0,6.7,1.9,4.800000000000001
+602,Lithuania,2021,8.8,Cannabis,Last year,Young adults (15-34),902.0,12.6,4.6,8.0
+603,Lithuania,2021,1.5,Cannabis,Last month,Adults (15-64),2501.0,2.7,0.3,2.4000000000000004
+604,Lithuania,2021,3.0,Cannabis,Last month,Young adults (15-34),902.0,4.8,0.9,3.9
+605,Lithuania,2021,1.8,Cocaine,Lifetime,Adults (15-64),2501.0,2.9,0.6,2.3
+606,Lithuania,2021,2.9,Cocaine,Lifetime,Young adults (15-34),902.0,4.0,1.6,2.4
+607,Lithuania,2021,0.6,Cocaine,Last year,Adults (15-64),2501.0,1.2,0.0,1.2
+608,Lithuania,2021,0.8,Cocaine,Last year,Young adults (15-34),902.0,1.6,0.0,1.6
+609,Lithuania,2021,0.4,Cocaine,Last month,Adults (15-64),2501.0,0.8,0.0,0.8
+610,Lithuania,2021,0.4,Cocaine,Last month,Young adults (15-34),902.0,0.8,0.0,0.8
+611,Lithuania,2021,1.4,Amphetamines,Lifetime,Adults (15-64),2501.0,2.6,0.3,2.3000000000000003
+612,Lithuania,2021,2.9,Amphetamines,Lifetime,Young adults (15-34),902.0,4.6,0.9,3.6999999999999997
+613,Lithuania,2021,0.2,Amphetamines,Last year,Adults (15-64),2501.0,0.4,0.0,0.4
+614,Lithuania,2021,0.6,Amphetamines,Last year,Young adults (15-34),902.0,1.1,0.0,1.1
+615,Lithuania,2021,0.1,Amphetamines,Last month,Adults (15-64),2501.0,0.1,0.0,0.1
+616,Lithuania,2021,0.1,Amphetamines,Last month,Young adults (15-34),902.0,0.2,0.0,0.2
+617,Lithuania,2021,1.8,Ecstasy,Lifetime,Adults (15-64),2501.0,3.1,0.5,2.6
+618,Lithuania,2021,3.3,Ecstasy,Lifetime,Young adults (15-34),902.0,5.5,1.0,4.5
+619,Lithuania,2021,0.4,Ecstasy,Last year,Adults (15-64),2501.0,0.8,0.0,0.8
+620,Lithuania,2021,0.8,Ecstasy,Last year,Young adults (15-34),902.0,1.5,0.0,1.5
+621,Lithuania,2021,0.1,Ecstasy,Last month,Adults (15-64),2501.0,0.2,0.0,0.2
+622,Lithuania,2021,0.2,Ecstasy,Last month,Young adults (15-34),902.0,0.4,0.0,0.4
+623,Lithuania,2021,1.0,LSD,Lifetime,Adults (15-64),2501.0,1.9,0.1,1.7999999999999998
+624,Lithuania,2021,2.0,LSD,Lifetime,Young adults (15-34),902.0,3.4,0.3,3.1
+625,Lithuania,2021,0.2,LSD,Last year,Adults (15-64),2501.0,0.5,0.0,0.5
+626,Lithuania,2021,0.3,LSD,Last year,Young adults (15-34),902.0,0.6,0.0,0.6
+627,Lithuania,2021,0.1,LSD,Last month,Adults (15-64),2501.0,0.1,0.0,0.1
+628,Lithuania,2021,0.1,LSD,Last month,Young adults (15-34),902.0,0.1,0.0,0.1
+629,Lithuania,2021,84.4,Alcohol,Last year,Adults (15-64),2501.0,86.7,82.1,4.6000000000000085
+630,Lithuania,2021,80.3,Alcohol,Last year,Young adults (15-34),902.0,82.8,77.5,5.299999999999997
+631,Lithuania,2021,62.8,Alcohol,Last month,Adults (15-64),2501.0,72.4,53.2,19.200000000000003
+632,Lithuania,2021,59.3,Alcohol,Last month,Young adults (15-34),902.0,67.2,50.4,16.800000000000004
+633,Lithuania,2021,65.2,Tobacco,Lifetime,Adults (15-64),2501.0,80.0,50.3,29.700000000000003
+634,Lithuania,2021,61.9,Tobacco,Lifetime,Young adults (15-34),902.0,74.5,48.0,26.5
+635,Lithuania,2021,38.5,Tobacco,Last year,Adults (15-64),2501.0,53.1,23.9,29.200000000000003
+636,Lithuania,2021,36.3,Tobacco,Last year,Young adults (15-34),902.0,47.7,23.6,24.1
+637,Lithuania,2021,34.9,Tobacco,Last month,Adults (15-64),2501.0,49.2,20.5,28.700000000000003
+638,Lithuania,2021,30.4,Tobacco,Last month,Young adults (15-34),902.0,41.8,17.6,24.199999999999996
+639,Luxembourg,2019,23.3,Cannabis,Lifetime,Adults (15-64),3514.0,27.8,19.6,8.2
+640,Luxembourg,2019,32.7,Cannabis,Lifetime,Young adults (15-34),1052.0,38.1,29.5,8.600000000000001
+641,Luxembourg,2019,5.4,Cannabis,Last year,Adults (15-64),3514.0,7.0,4.0,3.0
+642,Luxembourg,2019,12.0,Cannabis,Last year,Young adults (15-34),1052.0,16.5,9.3,7.199999999999999
+643,Luxembourg,2019,2.3,Cannabis,Last month,Adults (15-64),3514.0,3.5,1.4,2.1
+644,Luxembourg,2019,4.8,Cannabis,Last month,Young adults (15-34),1052.0,7.9,3.0,4.9
+645,Luxembourg,2019,2.9,Cocaine,Lifetime,Adults (15-64),3514.0,4.2,1.8,2.4000000000000004
+646,Luxembourg,2019,2.7,Cocaine,Lifetime,Young adults (15-34),1052.0,3.0,2.4,0.6000000000000001
+647,Luxembourg,2019,0.5,Cocaine,Last year,Adults (15-64),3514.0,0.7,0.3,0.39999999999999997
+648,Luxembourg,2019,0.9,Cocaine,Last year,Young adults (15-34),1052.0,1.5,0.5,1.0
+649,Luxembourg,2019,0.0,Cocaine,Last month,Adults (15-64),3514.0,0.0,0.0,0.0
+650,Luxembourg,2019,0.0,Cocaine,Last month,Young adults (15-34),1052.0,0.0,0.0,0.0
+651,Luxembourg,2019,1.3,Amphetamines,Lifetime,Adults (15-64),3514.0,2.0,0.8,1.2
+652,Luxembourg,2019,1.0,Amphetamines,Lifetime,Young adults (15-34),1052.0,1.3,0.9,0.4
+653,Luxembourg,2019,0.1,Amphetamines,Last year,Adults (15-64),3514.0,0.1,0.1,0.0
+654,Luxembourg,2019,0.3,Amphetamines,Last year,Young adults (15-34),1052.0,0.3,0.3,0.0
+655,Luxembourg,2019,0.0,Amphetamines,Last month,Adults (15-64),3514.0,0.0,0.0,0.0
+656,Luxembourg,2019,0.0,Amphetamines,Last month,Young adults (15-34),1052.0,0.0,0.0,0.0
+657,Luxembourg,2019,2.0,Ecstasy,Lifetime,Adults (15-64),3514.0,3.0,1.3,1.7
+658,Luxembourg,2019,2.8,Ecstasy,Lifetime,Young adults (15-34),1052.0,3.8,2.1,1.6999999999999997
+659,Luxembourg,2019,0.3,Ecstasy,Last year,Adults (15-64),3514.0,0.4,0.2,0.2
+660,Luxembourg,2019,0.9,Ecstasy,Last year,Young adults (15-34),1052.0,1.3,0.6,0.7000000000000001
+661,Luxembourg,2019,0.0,Ecstasy,Last month,Adults (15-64),3514.0,0.1,0.0,0.1
+662,Luxembourg,2019,0.1,Ecstasy,Last month,Young adults (15-34),1052.0,0.3,0.0,0.3
+663,Luxembourg,2019,1.5,LSD,Lifetime,Adults (15-64),3514.0,2.2,0.9,1.3000000000000003
+664,Luxembourg,2019,1.0,LSD,Lifetime,Young adults (15-34),1052.0,1.0,0.9,0.09999999999999998
+665,Luxembourg,2019,0.1,LSD,Last year,Adults (15-64),3514.0,0.1,0.1,0.0
+666,Luxembourg,2019,0.3,LSD,Last year,Young adults (15-34),1052.0,0.3,0.3,0.0
+667,Luxembourg,2019,0.0,LSD,Last month,Adults (15-64),3514.0,0.0,0.0,0.0
+668,Luxembourg,2019,0.0,LSD,Last month,Young adults (15-34),1052.0,0.0,0.0,0.0
+669,Luxembourg,2019,88.0,Alcohol,Lifetime,Adults (15-64),3514.0,92.0,84.8,7.200000000000003
+670,Luxembourg,2019,84.1,Alcohol,Lifetime,Young adults (15-34),1052.0,89.1,81.2,7.8999999999999915
+671,Luxembourg,2019,81.3,Alcohol,Last year,Adults (15-64),3514.0,86.1,77.4,8.699999999999989
+672,Luxembourg,2019,76.7,Alcohol,Last year,Young adults (15-34),1052.0,83.8,72.5,11.299999999999997
+673,Luxembourg,2019,71.4,Alcohol,Last month,Adults (15-64),3514.0,79.5,64.9,14.599999999999994
+674,Luxembourg,2019,61.4,Alcohol,Last month,Young adults (15-34),1052.0,71.8,55.2,16.599999999999994
+687,Netherlands,2021,29.8,Cannabis,Lifetime,Adults (15-64),5152.0,35.7,23.9,11.800000000000004
+688,Netherlands,2021,41.5,Cannabis,Lifetime,Young adults (15-34),1771.0,47.3,35.6,11.699999999999996
+689,Netherlands,2021,10.4,Cannabis,Last year,Adults (15-64),5152.0,13.5,7.2,6.3
+690,Netherlands,2021,19.2,Cannabis,Last year,Young adults (15-34),1771.0,23.3,15.0,8.3
+691,Netherlands,2021,6.4,Cannabis,Last month,Adults (15-64),5152.0,9.6,3.2,6.3999999999999995
+692,Netherlands,2021,11.2,Cannabis,Last month,Young adults (15-34),1771.0,16.1,6.2,9.900000000000002
+693,Netherlands,2021,7.9,Cocaine,Lifetime,Adults (15-64),5152.0,11.0,4.8,6.2
+694,Netherlands,2021,11.0,Cocaine,Lifetime,Young adults (15-34),1771.0,14.1,7.9,6.199999999999999
+695,Netherlands,2021,2.5,Cocaine,Last year,Adults (15-64),5152.0,3.4,1.6,1.7999999999999998
+696,Netherlands,2021,4.7,Cocaine,Last year,Young adults (15-34),1771.0,6.2,3.3,2.9000000000000004
+697,Netherlands,2021,0.9,Cocaine,Last month,Adults (15-64),5152.0,1.4,0.5,0.8999999999999999
+698,Netherlands,2021,1.6,Cocaine,Last month,Young adults (15-34),1771.0,2.4,0.7,1.7
+699,Netherlands,2021,6.5,Amphetamines,Lifetime,Adults (15-64),5152.0,9.1,3.8,5.3
+700,Netherlands,2021,9.1,Amphetamines,Lifetime,Young adults (15-34),1771.0,11.9,6.3,5.6000000000000005
+701,Netherlands,2021,1.6,Amphetamines,Last year,Adults (15-64),5152.0,1.8,1.3,0.5
+702,Netherlands,2021,2.7,Amphetamines,Last year,Young adults (15-34),1771.0,2.7,2.8,-0.09999999999999964
+703,Netherlands,2021,0.5,Amphetamines,Last month,Adults (15-64),5152.0,0.7,0.3,0.39999999999999997
+704,Netherlands,2021,0.7,Amphetamines,Last month,Young adults (15-34),1771.0,0.9,0.5,0.4
+705,Netherlands,2021,12.2,Ecstasy,Lifetime,Adults (15-64),5152.0,15.4,9.0,6.4
+706,Netherlands,2021,18.3,Ecstasy,Lifetime,Young adults (15-34),1771.0,21.1,15.4,5.700000000000001
+707,Netherlands,2021,3.9,Ecstasy,Last year,Adults (15-64),5152.0,4.6,3.2,1.3999999999999995
+708,Netherlands,2021,7.8,Ecstasy,Last year,Young adults (15-34),1771.0,8.3,7.2,1.1000000000000005
+709,Netherlands,2021,1.2,Ecstasy,Last month,Adults (15-64),5152.0,1.7,0.8,0.8999999999999999
+710,Netherlands,2021,2.4,Ecstasy,Last month,Young adults (15-34),1771.0,2.9,1.9,1.0
+711,Netherlands,2021,2.5,LSD,Lifetime,Adults (15-64),5152.0,3.5,1.4,2.1
+712,Netherlands,2021,3.6,LSD,Lifetime,Young adults (15-34),1771.0,4.8,2.3,2.5
+713,Netherlands,2021,0.6,LSD,Last year,Adults (15-64),5152.0,0.9,0.3,0.6000000000000001
+714,Netherlands,2021,1.2,LSD,Last year,Young adults (15-34),1771.0,1.8,0.6,1.2000000000000002
+715,Netherlands,2021,0.1,LSD,Last month,Adults (15-64),5152.0,0.2,0.1,0.1
+716,Netherlands,2021,0.2,LSD,Last month,Young adults (15-34),1771.0,0.4,0.0,0.4
+717,Netherlands,2019,79.1,Alcohol,Last year,Adults (15-64),6127.0,82.8,75.4,7.3999999999999915
+718,Netherlands,2019,78.8,Alcohol,Last year,Young adults (15-34),2195.0,80.0,77.6,2.4000000000000057
+719,Netherlands,2019,23.8,Tobacco,Last year,Adults (15-64),6127.0,27.8,19.7,8.100000000000001
+720,Netherlands,2019,24.7,Tobacco,Last year,Young adults (15-34),2195.0,28.3,20.9,7.400000000000002
+721,Norway,2021,25.5,Cannabis,Lifetime,Adults (15-64),1872.0,30.3,20.5,9.8
+722,Norway,2021,30.4,Cannabis,Lifetime,Young adults (15-34),974.0,37.2,23.7,13.500000000000004
+723,Norway,2021,4.4,Cannabis,Last year,Adults (15-64),1872.0,6.7,1.9,4.800000000000001
+724,Norway,2021,9.3,Cannabis,Last year,Young adults (15-34),974.0,14.2,4.5,9.7
+725,Norway,2021,1.8,Cannabis,Last month,Adults (15-64),1872.0,2.6,0.8,1.8
+726,Norway,2021,3.8,Cannabis,Last month,Young adults (15-34),974.0,5.5,2.1,3.4
+727,Norway,2021,5.8,Cocaine,Lifetime,Adults (15-64),1872.0,8.0,3.5,4.5
+728,Norway,2021,8.3,Cocaine,Lifetime,Young adults (15-34),974.0,10.7,6.0,4.699999999999999
+729,Norway,2021,1.5,Cocaine,Last year,Adults (15-64),1872.0,2.1,0.8,1.3
+730,Norway,2021,2.7,Cocaine,Last year,Young adults (15-34),974.0,3.7,1.8,1.9000000000000001
+731,Norway,2021,3.7,Amphetamines,Lifetime,Adults (15-64),1872.0,4.9,2.5,2.4000000000000004
+732,Norway,2021,3.9,Amphetamines,Lifetime,Young adults (15-34),974.0,3.9,4.0,-0.10000000000000009
+733,Norway,2021,0.6,Amphetamines,Last year,Adults (15-64),1872.0,1.0,0.1,0.9
+734,Norway,2021,0.5,Amphetamines,Last year,Young adults (15-34),974.0,0.7,0.2,0.49999999999999994
+735,Norway,2021,3.9,Ecstasy,Lifetime,Adults (15-64),1872.0,5.1,2.7,2.3999999999999995
+736,Norway,2021,6.2,Ecstasy,Lifetime,Young adults (15-34),974.0,7.2,5.1,2.1000000000000005
+737,Norway,2021,0.8,Ecstasy,Last year,Adults (15-64),1872.0,1.3,0.4,0.9
+738,Norway,2021,1.6,Ecstasy,Last year,Young adults (15-34),974.0,2.2,1.0,1.2000000000000002
+739,Norway,2021,1.8,LSD,Lifetime,Adults (15-64),1872.0,2.5,1.1,1.4
+740,Norway,2021,2.8,LSD,Lifetime,Young adults (15-34),974.0,3.4,2.3,1.1
+741,Norway,2021,0.6,LSD,Last year,Adults (15-64),1872.0,0.7,0.4,0.29999999999999993
+742,Norway,2021,1.3,LSD,Last year,Young adults (15-34),974.0,1.5,1.1,0.3999999999999999
+743,Norway,2021,92.3,Alcohol,Lifetime,Adults (15-64),1872.0,93.9,90.6,3.3000000000000114
+744,Norway,2021,90.1,Alcohol,Lifetime,Young adults (15-34),974.0,92.4,87.8,4.6000000000000085
+745,Norway,2021,83.3,Alcohol,Last year,Adults (15-64),1872.0,86.5,79.9,6.599999999999994
+746,Norway,2021,81.1,Alcohol,Last year,Young adults (15-34),974.0,86.4,75.7,10.700000000000003
+747,Norway,2021,65.9,Alcohol,Last month,Adults (15-64),1872.0,70.5,61.1,9.399999999999999
+748,Norway,2021,63.8,Alcohol,Last month,Young adults (15-34),974.0,69.2,58.5,10.700000000000003
+749,Norway,2021,47.2,Tobacco,Lifetime,Adults (15-64),1872.0,49.6,44.7,4.899999999999999
+750,Norway,2021,37.6,Tobacco,Lifetime,Young adults (15-34),974.0,44.7,30.6,14.100000000000001
+751,Poland,2018,12.1,Cannabis,Lifetime,Adults (15-64),3013.0,16.4,7.7,8.7
+752,Poland,2018,19.1,Cannabis,Lifetime,Young adults (15-34),1118.0,24.6,13.3,11.3
+753,Poland,2018,3.8,Cannabis,Last year,Adults (15-64),3013.0,5.0,2.6,2.4
+754,Poland,2018,7.8,Cannabis,Last year,Young adults (15-34),1118.0,10.2,5.3,4.8999999999999995
+755,Poland,2018,2.0,Cannabis,Last month,Adults (15-64),3013.0,2.7,1.3,1.4000000000000001
+756,Poland,2018,4.1,Cannabis,Last month,Young adults (15-34),1118.0,5.6,2.6,2.9999999999999996
+757,Poland,2018,0.7,Cocaine,Lifetime,Adults (15-64),3013.0,1.1,0.4,0.7000000000000001
+758,Poland,2018,1.2,Cocaine,Lifetime,Young adults (15-34),1118.0,1.4,0.9,0.4999999999999999
+759,Poland,2018,0.3,Cocaine,Last year,Adults (15-64),3013.0,0.3,0.2,0.09999999999999998
+760,Poland,2018,0.5,Cocaine,Last year,Young adults (15-34),1118.0,0.5,0.6,-0.09999999999999998
+761,Poland,2018,0.2,Cocaine,Last month,Adults (15-64),3013.0,0.3,0.1,0.19999999999999998
+762,Poland,2018,0.4,Cocaine,Last month,Young adults (15-34),1118.0,0.4,0.4,0.0
+763,Poland,2018,2.4,Amphetamines,Lifetime,Adults (15-64),3013.0,3.3,1.4,1.9
+764,Poland,2018,3.2,Amphetamines,Lifetime,Young adults (15-34),1118.0,4.0,2.4,1.6
+765,Poland,2018,0.8,Amphetamines,Last year,Adults (15-64),3013.0,0.9,0.7,0.20000000000000007
+766,Poland,2018,1.4,Amphetamines,Last year,Young adults (15-34),1118.0,1.6,1.3,0.30000000000000004
+767,Poland,2018,0.5,Amphetamines,Last month,Adults (15-64),3013.0,0.5,0.5,0.0
+768,Poland,2018,0.7,Amphetamines,Last month,Young adults (15-34),1118.0,0.5,0.9,-0.4
+769,Poland,2018,1.0,Ecstasy,Lifetime,Adults (15-64),3013.0,1.3,0.7,0.6000000000000001
+770,Poland,2018,1.4,Ecstasy,Lifetime,Young adults (15-34),1118.0,1.9,0.9,0.9999999999999999
+771,Poland,2018,0.3,Ecstasy,Last year,Adults (15-64),3013.0,0.3,0.3,0.0
+772,Poland,2018,0.5,Ecstasy,Last year,Young adults (15-34),1118.0,0.5,0.6,-0.09999999999999998
+773,Poland,2018,0.3,Ecstasy,Last month,Adults (15-64),3013.0,0.3,0.3,0.0
+774,Poland,2018,0.5,Ecstasy,Last month,Young adults (15-34),1118.0,0.5,0.6,-0.09999999999999998
+775,Poland,2018,1.0,LSD,Lifetime,Adults (15-64),3013.0,1.3,0.7,0.6000000000000001
+776,Poland,2018,1.1,LSD,Lifetime,Young adults (15-34),1118.0,1.8,0.4,1.4
+777,Poland,2018,0.5,LSD,Last year,Adults (15-64),3013.0,0.5,0.5,0.0
+778,Poland,2018,0.4,LSD,Last year,Young adults (15-34),1118.0,0.5,0.2,0.3
+779,Poland,2018,0.4,LSD,Last month,Adults (15-64),3013.0,0.5,0.4,0.09999999999999998
+780,Poland,2018,0.3,LSD,Last month,Young adults (15-34),1118.0,0.4,0.2,0.2
+781,Poland,2018,79.9,Alcohol,Last year,Adults (15-64),3013.0,85.7,74.0,11.700000000000003
+782,Poland,2018,77.8,Alcohol,Last year,Young adults (15-34),1118.0,82.4,73.0,9.400000000000006
+783,Poland,2018,47.4,Tobacco,Lifetime,Adults (15-64),3013.0,57.2,37.6,19.6
+784,Poland,2018,38.9,Tobacco,Lifetime,Young adults (15-34),1118.0,45.5,32.1,13.399999999999999
+785,Poland,2018,34.0,Tobacco,Last month,Adults (15-64),3013.0,42.4,25.7,16.7
+786,Poland,2018,28.4,Tobacco,Last month,Young adults (15-34),1118.0,33.6,23.1,10.5
+787,Portugal,2016,11.0,Cannabis,Lifetime,Adults (15-64),9632.0,15.6,6.6,9.0
+788,Portugal,2016,15.1,Cannabis,Lifetime,Young adults (15-34),3467.0,20.7,9.6,11.1
+789,Portugal,2016,5.1,Cannabis,Last year,Adults (15-64),9632.0,7.3,3.1,4.199999999999999
+790,Portugal,2016,8.0,Cannabis,Last year,Young adults (15-34),3467.0,10.9,5.0,5.9
+791,Portugal,2016,4.3,Cannabis,Last month,Adults (15-64),9632.0,6.1,2.6,3.4999999999999996
+792,Portugal,2016,6.4,Cannabis,Last month,Young adults (15-34),3467.0,8.6,4.2,4.3999999999999995
+793,Portugal,2016,1.2,Cocaine,Lifetime,Adults (15-64),9632.0,1.9,0.6,1.2999999999999998
+794,Portugal,2016,1.1,Cocaine,Lifetime,Young adults (15-34),3467.0,1.4,0.9,0.4999999999999999
+795,Portugal,2016,0.2,Cocaine,Last year,Adults (15-64),9632.0,0.3,0.1,0.19999999999999998
+796,Portugal,2016,0.3,Cocaine,Last year,Young adults (15-34),3467.0,0.4,0.3,0.10000000000000003
+797,Portugal,2016,0.1,Cocaine,Last month,Adults (15-64),9632.0,0.2,0.0,0.2
+798,Portugal,2016,0.2,Cocaine,Last month,Young adults (15-34),3467.0,0.2,0.1,0.1
+799,Portugal,2016,0.4,Amphetamines,Lifetime,Adults (15-64),9632.0,0.6,0.3,0.3
+800,Portugal,2016,0.4,Amphetamines,Lifetime,Young adults (15-34),3467.0,0.3,0.4,-0.10000000000000003
+801,Portugal,2016,0.0,Amphetamines,Last year,Adults (15-64),9632.0,0.0,0.0,0.0
+802,Portugal,2016,0.0,Amphetamines,Last year,Young adults (15-34),3467.0,0.0,0.0,0.0
+803,Portugal,2016,0.0,Amphetamines,Last month,Adults (15-64),9632.0,0.0,0.0,0.0
+804,Portugal,2016,0.0,Amphetamines,Last month,Young adults (15-34),3467.0,0.0,0.0,0.0
+805,Portugal,2016,0.7,Ecstasy,Lifetime,Adults (15-64),9632.0,1.1,0.4,0.7000000000000001
+806,Portugal,2016,0.9,Ecstasy,Lifetime,Young adults (15-34),3467.0,1.2,0.7,0.5
+807,Portugal,2016,0.1,Ecstasy,Last year,Adults (15-64),9632.0,0.2,0.0,0.2
+808,Portugal,2016,0.2,Ecstasy,Last year,Young adults (15-34),3467.0,0.4,0.1,0.30000000000000004
+809,Portugal,2016,0.0,Ecstasy,Last month,Adults (15-64),9632.0,0.0,0.0,0.0
+810,Portugal,2016,0.0,Ecstasy,Last month,Young adults (15-34),3467.0,0.0,0.1,-0.1
+811,Portugal,2016,0.4,LSD,Lifetime,Adults (15-64),9632.0,0.7,0.1,0.6
+812,Portugal,2016,0.5,LSD,Lifetime,Young adults (15-34),3467.0,0.9,0.2,0.7
+813,Portugal,2016,0.0,LSD,Last year,Adults (15-64),9632.0,0.1,0.0,0.1
+814,Portugal,2016,0.1,LSD,Last year,Young adults (15-34),3467.0,0.2,0.0,0.2
+815,Portugal,2016,0.0,LSD,Last month,Adults (15-64),9632.0,0.0,0.0,0.0
+816,Portugal,2016,0.0,LSD,Last month,Young adults (15-34),3467.0,0.0,0.0,0.0
+817,Portugal,2016,86.4,Alcohol,Lifetime,Adults (15-64),9632.0,91.8,81.4,10.399999999999991
+818,Portugal,2016,82.8,Alcohol,Lifetime,Young adults (15-34),3467.0,86.5,79.1,7.400000000000006
+819,Portugal,2016,59.4,Alcohol,Last year,Adults (15-64),9632.0,68.5,50.8,17.700000000000003
+820,Portugal,2016,51.6,Alcohol,Last year,Young adults (15-34),3467.0,60.8,42.5,18.299999999999997
+821,Portugal,2016,49.1,Alcohol,Last month,Adults (15-64),9632.0,60.3,38.5,21.799999999999997
+822,Portugal,2016,41.3,Alcohol,Last month,Young adults (15-34),3467.0,51.0,31.7,19.3
+823,Portugal,2016,48.8,Tobacco,Lifetime,Adults (15-64),9632.0,56.9,41.1,15.799999999999997
+824,Portugal,2016,52.7,Tobacco,Lifetime,Young adults (15-34),3467.0,55.2,50.1,5.100000000000001
+825,Portugal,2016,31.7,Tobacco,Last year,Adults (15-64),9632.0,37.9,25.9,12.0
+826,Portugal,2016,39.0,Tobacco,Last year,Young adults (15-34),3467.0,41.5,36.5,5.0
+827,Portugal,2016,30.6,Tobacco,Last month,Adults (15-64),9632.0,36.5,25.0,11.5
+828,Portugal,2016,37.4,Tobacco,Last month,Young adults (15-34),3467.0,39.6,35.3,4.300000000000004
+829,Romania,2019,6.1,Cannabis,Lifetime,Adults (15-64),7200.0,8.0,4.3,3.7
+830,Romania,2019,9.5,Cannabis,Lifetime,Young adults (15-34),3549.0,12.4,6.6,5.800000000000001
+831,Romania,2019,3.5,Cannabis,Last year,Adults (15-64),7200.0,4.8,2.1,2.6999999999999997
+832,Romania,2019,6.0,Cannabis,Last year,Young adults (15-34),3549.0,8.4,3.5,4.9
+833,Romania,2019,1.8,Cannabis,Last month,Adults (15-64),7200.0,2.3,1.2,1.0999999999999999
+834,Romania,2019,3.0,Cannabis,Last month,Young adults (15-34),3549.0,4.0,2.0,2.0
+835,Romania,2019,1.6,Cocaine,Lifetime,Adults (15-64),7200.0,2.1,1.0,1.1
+836,Romania,2019,2.4,Cocaine,Lifetime,Young adults (15-34),3549.0,3.4,1.3,2.0999999999999996
+837,Romania,2019,0.5,Cocaine,Last year,Adults (15-64),7200.0,0.6,0.4,0.19999999999999996
+838,Romania,2019,0.7,Cocaine,Last year,Young adults (15-34),3549.0,1.0,0.4,0.6
+839,Romania,2019,0.4,Cocaine,Last month,Adults (15-64),7200.0,0.5,0.3,0.2
+840,Romania,2019,0.6,Cocaine,Last month,Young adults (15-34),3549.0,0.7,0.4,0.29999999999999993
+841,Romania,2019,0.2,Amphetamines,Lifetime,Adults (15-64),7200.0,0.2,0.3,-0.09999999999999998
+842,Romania,2019,0.3,Amphetamines,Lifetime,Young adults (15-34),3549.0,0.3,0.3,0.0
+843,Romania,2016,0.1,Amphetamines,Last year,Adults (15-64),7200.0,0.1,0.0,0.1
+844,Romania,2019,0.1,Amphetamines,Last year,Young adults (15-34),3549.0,0.1,0.1,0.0
+845,Romania,2016,0.0,Amphetamines,Last month,Adults (15-64),7200.0,0.1,0.0,0.1
+846,Romania,2016,0.1,Amphetamines,Last month,Young adults (15-34),3609.0,0.1,0.0,0.1
+847,Romania,2019,1.0,Ecstasy,Lifetime,Adults (15-64),7200.0,1.5,0.5,1.0
+848,Romania,2019,1.5,Ecstasy,Lifetime,Young adults (15-34),3549.0,2.6,0.5,2.1
+849,Romania,2019,0.5,Ecstasy,Last year,Adults (15-64),7200.0,0.7,0.2,0.49999999999999994
+850,Romania,2019,0.8,Ecstasy,Last year,Young adults (15-34),3549.0,1.4,0.2,1.2
+851,Romania,2019,0.4,Ecstasy,Last month,Adults (15-64),7200.0,0.6,0.2,0.39999999999999997
+852,Romania,2019,0.7,Ecstasy,Last month,Young adults (15-34),3549.0,1.2,0.2,1.0
+853,Romania,2019,0.5,LSD,Lifetime,Adults (15-64),7200.0,0.6,0.4,0.19999999999999996
+854,Romania,2019,0.7,LSD,Lifetime,Young adults (15-34),3549.0,0.9,0.5,0.4
+855,Romania,2019,0.3,LSD,Last year,Adults (15-64),7200.0,0.4,0.3,0.10000000000000003
+856,Romania,2019,0.5,LSD,Last year,Young adults (15-34),3549.0,0.7,0.3,0.39999999999999997
+857,Romania,2019,0.3,LSD,Last month,Adults (15-64),7200.0,0.4,0.3,0.10000000000000003
+858,Romania,2019,0.5,LSD,Last month,Young adults (15-34),3549.0,0.6,0.3,0.3
+859,Romania,2019,82.4,Alcohol,Lifetime,Adults (15-64),7200.0,86.3,78.6,7.700000000000003
+860,Romania,2019,80.5,Alcohol,Lifetime,Young adults (15-34),3549.0,84.2,76.7,7.5
+861,Romania,2019,60.1,Alcohol,Last year,Adults (15-64),7200.0,69.1,51.1,17.999999999999993
+862,Romania,2019,61.8,Alcohol,Last year,Young adults (15-34),3549.0,69.4,54.0,15.400000000000006
+863,Romania,2019,48.7,Alcohol,Last month,Adults (15-64),7200.0,60.1,37.3,22.800000000000004
+864,Romania,2019,50.1,Alcohol,Last month,Young adults (15-34),3549.0,60.0,40.0,20.0
+865,Romania,2019,58.3,Tobacco,Lifetime,Adults (15-64),7200.0,67.2,49.4,17.800000000000004
+866,Romania,2019,57.7,Tobacco,Lifetime,Young adults (15-34),3549.0,67.2,50.5,16.700000000000003
+867,Romania,2019,41.5,Tobacco,Last year,Adults (15-64),7200.0,49.3,33.5,15.799999999999997
+868,Romania,2019,44.7,Tobacco,Last year,Young adults (15-34),3549.0,53.4,35.8,17.6
+869,Romania,2019,40.8,Tobacco,Last month,Adults (15-64),7200.0,48.6,32.9,15.700000000000003
+870,Romania,2019,43.8,Tobacco,Last month,Young adults (15-34),3549.0,52.7,34.7,18.0
+871,Slovakia,2019,17.0,Cannabis,Lifetime,Adults (15-64),4039.0,23.4,10.6,12.799999999999999
+872,Slovakia,2019,26.0,Cannabis,Lifetime,Young adults (15-34),1605.0,33.4,17.7,15.7
+873,Slovakia,2019,3.8,Cannabis,Last year,Adults (15-64),4039.0,5.9,1.7,4.2
+874,Slovakia,2019,7.7,Cannabis,Last year,Young adults (15-34),1605.0,11.8,3.5,8.3
+875,Slovakia,2019,2.2,Cannabis,Last month,Adults (15-64),4039.0,3.8,0.6,3.1999999999999997
+876,Slovakia,2019,0.8,Cannabis,Last month,Young adults (15-34),1605.0,1.4,0.2,1.2
+877,Slovakia,2019,0.9,Cocaine,Lifetime,Adults (15-64),4039.0,1.6,0.1,1.5
+878,Slovakia,2019,1.5,Cocaine,Lifetime,Young adults (15-34),1605.0,2.7,0.3,2.4000000000000004
+879,Slovakia,2019,0.1,Cocaine,Last year,Adults (15-64),4039.0,0.3,0.0,0.3
+880,Slovakia,2019,0.2,Cocaine,Last year,Young adults (15-34),1605.0,0.5,0.0,0.5
+881,Slovakia,2019,0.1,Cocaine,Last month,Adults (15-64),4039.0,0.1,0.0,0.1
+882,Slovakia,2019,0.1,Cocaine,Last month,Young adults (15-34),1605.0,0.1,0.0,0.1
+883,Slovakia,2019,0.9,Amphetamines,Lifetime,Adults (15-64),4039.0,1.2,0.5,0.7
+884,Slovakia,2019,1.5,Amphetamines,Lifetime,Young adults (15-34),1605.0,2.3,0.6,1.6999999999999997
+885,Slovakia,2019,0.1,Amphetamines,Last year,Adults (15-64),4039.0,0.1,0.1,0.0
+886,Slovakia,2019,0.2,Amphetamines,Last year,Young adults (15-34),1605.0,0.4,0.1,0.30000000000000004
+887,Slovakia,2019,0.1,Amphetamines,Last month,Adults (15-64),4039.0,0.1,0.0,0.1
+888,Slovakia,2019,0.2,Amphetamines,Last month,Young adults (15-34),1605.0,0.2,0.1,0.1
+889,Slovakia,2019,3.1,Ecstasy,Lifetime,Adults (15-64),4039.0,4.7,1.5,3.2
+890,Slovakia,2019,5.7,Ecstasy,Lifetime,Young adults (15-34),1605.0,8.4,2.9,5.5
+891,Slovakia,2019,0.5,Ecstasy,Last year,Adults (15-64),4039.0,0.8,0.1,0.7000000000000001
+892,Slovakia,2019,1.0,Ecstasy,Last year,Young adults (15-34),1605.0,1.7,0.3,1.4
+893,Slovakia,2019,0.2,Ecstasy,Last month,Adults (15-64),4039.0,0.4,0.1,0.30000000000000004
+894,Slovakia,2019,0.5,Ecstasy,Last month,Young adults (15-34),1605.0,0.7,0.3,0.39999999999999997
+895,Slovakia,2019,0.8,LSD,Lifetime,Adults (15-64),4039.0,1.5,0.1,1.4
+896,Slovakia,2019,1.0,LSD,Lifetime,Young adults (15-34),1605.0,1.8,0.1,1.7
+897,Slovakia,2019,0.2,LSD,Last year,Adults (15-64),4039.0,0.3,0.0,0.3
+898,Slovakia,2019,0.3,LSD,Last year,Young adults (15-34),1605.0,0.5,0.1,0.4
+899,Slovakia,2019,0.1,LSD,Last month,Adults (15-64),4039.0,0.1,0.0,0.1
+900,Slovakia,2019,0.1,LSD,Last month,Young adults (15-34),1605.0,0.1,0.1,0.0
+901,Slovakia,2019,87.4,Alcohol,Lifetime,Adults (15-64),4039.0,91.3,83.4,7.8999999999999915
+902,Slovakia,2019,80.1,Alcohol,Lifetime,Young adults (15-34),1605.0,84.0,76.1,7.900000000000006
+903,Slovakia,2019,73.2,Alcohol,Last year,Adults (15-64),4039.0,80.0,66.3,13.700000000000003
+904,Slovakia,2019,69.5,Alcohol,Last year,Young adults (15-34),1605.0,75.0,63.8,11.200000000000003
+905,Slovakia,2019,54.9,Alcohol,Last month,Adults (15-64),4039.0,65.8,43.9,21.9
+906,Slovakia,2019,50.7,Alcohol,Last month,Young adults (15-34),1605.0,50.9,42.0,8.899999999999999
+907,Slovakia,2019,55.4,Tobacco,Lifetime,Adults (15-64),4039.0,67.2,43.4,23.800000000000004
+908,Slovakia,2019,50.8,Tobacco,Lifetime,Young adults (15-34),1605.0,59.5,41.6,17.9
+909,Slovakia,2019,37.5,Tobacco,Last year,Adults (15-64),4039.0,48.0,26.7,21.3
+910,Slovakia,2019,38.4,Tobacco,Last year,Young adults (15-34),1605.0,48.1,28.4,19.700000000000003
+911,Slovakia,2019,35.3,Tobacco,Last month,Adults (15-64),4039.0,45.1,25.2,19.900000000000002
+912,Slovakia,2019,34.8,Tobacco,Last month,Young adults (15-34),1605.0,43.5,25.8,17.7
+913,Slovenia,2018,20.7,Cannabis,Lifetime,Adults (15-64),9161.0,24.7,16.5,8.2
+914,Slovenia,2018,33.1,Cannabis,Lifetime,Young adults (15-34),3054.0,36.6,29.4,7.200000000000003
+915,Slovenia,2018,5.9,Cannabis,Last year,Adults (15-64),9161.0,7.8,3.8,4.0
+916,Slovenia,2018,12.3,Cannabis,Last year,Young adults (15-34),3054.0,15.3,9.1,6.200000000000001
+917,Slovenia,2018,3.0,Cannabis,Last month,Adults (15-64),9161.0,4.3,1.6,2.6999999999999997
+918,Slovenia,2018,6.1,Cannabis,Last month,Young adults (15-34),3054.0,8.3,3.8,4.500000000000001
+919,Slovenia,2018,2.7,Cocaine,Lifetime,Adults (15-64),9161.0,3.6,1.6,2.0
+920,Slovenia,2018,4.5,Cocaine,Lifetime,Young adults (15-34),3054.0,5.7,3.3,2.4000000000000004
+921,Slovenia,2018,0.8,Cocaine,Last year,Adults (15-64),9161.0,1.0,0.5,0.5
+922,Slovenia,2018,1.8,Cocaine,Last year,Young adults (15-34),3054.0,2.3,1.2,1.0999999999999999
+923,Slovenia,2018,0.3,Cocaine,Last month,Adults (15-64),9161.0,0.4,0.2,0.2
+924,Slovenia,2018,0.7,Cocaine,Last month,Young adults (15-34),3054.0,1.0,0.4,0.6
+925,Slovenia,2018,2.3,Amphetamines,Lifetime,Adults (15-64),9161.0,3.2,1.4,1.8000000000000003
+926,Slovenia,2018,4.3,Amphetamines,Lifetime,Young adults (15-34),3054.0,5.6,2.8,2.8
+927,Slovenia,2018,0.4,Amphetamines,Last year,Adults (15-64),9161.0,0.6,0.3,0.3
+928,Slovenia,2018,1.1,Amphetamines,Last year,Young adults (15-34),3054.0,1.4,0.7,0.7
+929,Slovenia,2018,0.2,Amphetamines,Last month,Adults (15-64),9161.0,0.3,0.1,0.19999999999999998
+930,Slovenia,2018,0.5,Amphetamines,Last month,Young adults (15-34),3054.0,0.8,0.2,0.6000000000000001
+931,Slovenia,2018,2.9,Ecstasy,Lifetime,Adults (15-64),9161.0,3.6,2.2,1.4
+932,Slovenia,2018,4.7,Ecstasy,Lifetime,Young adults (15-34),3054.0,5.2,4.1,1.1000000000000005
+933,Slovenia,2018,0.5,Ecstasy,Last year,Adults (15-64),9161.0,0.6,0.3,0.3
+934,Slovenia,2018,1.3,Ecstasy,Last year,Young adults (15-34),3054.0,1.6,0.9,0.7000000000000001
+935,Slovenia,2018,0.2,Ecstasy,Last month,Adults (15-64),9161.0,0.3,0.1,0.19999999999999998
+936,Slovenia,2018,0.5,Ecstasy,Last month,Young adults (15-34),3054.0,0.7,0.3,0.39999999999999997
+937,Slovenia,2018,2.2,LSD,Lifetime,Adults (15-64),9161.0,2.9,1.4,1.5
+938,Slovenia,2018,3.5,LSD,Lifetime,Young adults (15-34),3054.0,4.4,2.5,1.9000000000000004
+939,Slovenia,2018,0.3,LSD,Last year,Adults (15-64),9161.0,0.4,0.2,0.2
+940,Slovenia,2018,0.8,LSD,Last year,Young adults (15-34),3054.0,1.0,0.6,0.4
+941,Slovenia,2018,0.1,LSD,Last month,Adults (15-64),9161.0,0.1,0.0,0.1
+942,Slovenia,2018,0.2,LSD,Last month,Young adults (15-34),3054.0,0.2,0.1,0.1
+943,Slovenia,2018,80.2,Alcohol,Last year,Adults (15-64),9161.0,85.0,75.0,10.0
+944,Slovenia,2018,82.8,Alcohol,Last year,Young adults (15-34),3054.0,86.0,79.4,6.599999999999994
+945,Slovenia,2012,67.1,Alcohol,Last month,Adults (15-64),7514.0,74.7,59.1,15.600000000000001
+947,Spain,2022,40.9,Cannabis,Lifetime,Adults (15-64),26344.0,48.8,32.9,15.899999999999999
+948,Spain,2022,47.2,Cannabis,Lifetime,Young adults (15-34),11495.0,53.4,40.8,12.600000000000001
+949,Spain,2022,10.6,Cannabis,Last year,Adults (15-64),26344.0,14.4,6.8,7.6000000000000005
+950,Spain,2022,19.1,Cannabis,Last year,Young adults (15-34),11495.0,24.0,13.9,10.1
+951,Spain,2022,8.6,Cannabis,Last month,Adults (15-64),26344.0,12.0,5.2,6.8
+952,Spain,2022,15.1,Cannabis,Last month,Young adults (15-34),11495.0,19.7,10.4,9.299999999999999
+953,Spain,2022,12.0,Cocaine,Lifetime,Adults (15-64),26344.0,17.4,6.6,10.799999999999999
+954,Spain,2022,10.7,Cocaine,Lifetime,Young adults (15-34),11495.0,14.7,6.5,8.2
+955,Spain,2022,2.4,Cocaine,Last year,Adults (15-64),26344.0,3.6,1.1,2.5
+956,Spain,2022,3.1,Cocaine,Last year,Young adults (15-34),11495.0,4.3,1.9,2.4
+957,Spain,2022,1.4,Cocaine,Last month,Adults (15-64),26344.0,2.1,0.6,1.5
+958,Spain,2022,1.8,Cocaine,Last month,Young adults (15-34),11495.0,2.4,1.1,1.2999999999999998
+959,Spain,2022,4.6,Amphetamines,Lifetime,Adults (15-64),26344.0,6.9,2.3,4.6000000000000005
+960,Spain,2022,4.2,Amphetamines,Lifetime,Young adults (15-34),11495.0,5.6,2.9,2.6999999999999997
+961,Spain,2022,0.6,Amphetamines,Last year,Adults (15-64),26344.0,0.8,0.3,0.5
+962,Spain,2022,1.1,Amphetamines,Last year,Young adults (15-34),11495.0,1.4,0.7,0.7
+963,Spain,2022,0.2,Amphetamines,Last month,Adults (15-64),26344.0,0.3,0.1,0.19999999999999998
+964,Spain,2022,0.4,Amphetamines,Last month,Young adults (15-34),11495.0,0.5,0.3,0.2
+965,Spain,2022,5.1,Ecstasy,Lifetime,Adults (15-64),26344.0,7.4,2.9,4.5
+966,Spain,2022,6.3,Ecstasy,Lifetime,Young adults (15-34),11495.0,8.1,4.4,3.6999999999999993
+967,Spain,2022,0.8,Ecstasy,Last year,Adults (15-64),26344.0,1.0,0.5,0.5
+968,Spain,2022,1.8,Ecstasy,Last year,Young adults (15-34),11495.0,2.0,1.5,0.5
+969,Spain,2022,0.2,Ecstasy,Last month,Adults (15-64),26344.0,0.3,0.1,0.19999999999999998
+970,Spain,2022,0.5,Ecstasy,Last month,Young adults (15-34),11495.0,0.7,0.3,0.39999999999999997
+971,Spain,2022,93.2,Alcohol,Lifetime,Adults (15-64),26344.0,94.9,91.4,3.5
+972,Spain,2022,90.3,Alcohol,Lifetime,Young adults (15-34),11495.0,91.4,89.2,2.200000000000003
+973,Spain,2022,76.4,Alcohol,Last year,Adults (15-64),26344.0,82.1,70.8,11.299999999999997
+974,Spain,2022,78.9,Alcohol,Last year,Young adults (15-34),11495.0,82.1,75.5,6.599999999999994
+975,Spain,2022,64.5,Alcohol,Last month,Adults (15-64),26344.0,73.1,55.7,17.39999999999999
+976,Spain,2022,65.6,Alcohol,Last month,Young adults (15-34),11495.0,70.8,60.3,10.5
+977,Spain,2022,69.6,Tobacco,Lifetime,Adults (15-64),26344.0,74.4,64.8,9.600000000000009
+978,Spain,2022,62.4,Tobacco,Lifetime,Young adults (15-34),11495.0,65.3,59.4,5.899999999999999
+979,Spain,2022,39.0,Tobacco,Last year,Adults (15-64),26344.0,44.0,34.0,10.0
+980,Spain,2022,39.5,Tobacco,Last year,Young adults (15-34),11495.0,43.4,35.5,7.899999999999999
+981,Spain,2022,37.2,Tobacco,Last month,Adults (15-64),26344.0,42.2,32.3,9.900000000000006
+982,Spain,2022,36.8,Tobacco,Last month,Young adults (15-34),11495.0,40.8,32.7,8.099999999999994
+983,Sweden,2021,17.6,Cannabis,Lifetime,Adults (15-64),11344.0,21.9,13.1,8.799999999999999
+984,Sweden,2021,23.7,Cannabis,Lifetime,Young adults (15-34),3228.0,27.8,19.4,8.400000000000002
+985,Sweden,2021,3.3,Cannabis,Last year,Adults (15-64),11344.0,4.3,2.3,2.0
+986,Sweden,2021,6.5,Cannabis,Last year,Young adults (15-34),3228.0,7.8,5.2,2.5999999999999996
+987,Sweden,2021,1.2,Cannabis,Last month,Adults (15-64),11344.0,1.7,0.6,1.1
+988,Sweden,2021,2.2,Cannabis,Last month,Young adults (15-34),3228.0,3.1,1.2,1.9000000000000001
+989,Sweden,2021,1.3,Cocaine,Last year,Adults (15-64),6562.0,1.7,0.9,0.7999999999999999
+990,Sweden,2021,2.8,Cocaine,Last year,Young adults (15-34),1928.0,3.2,2.3,0.9000000000000004
+991,Sweden,2021,0.2,Cocaine,Last month,Adults (15-64),6562.0,0.4,0.1,0.30000000000000004
+992,Sweden,2021,0.4,Cocaine,Last month,Young adults (15-34),1928.0,0.5,0.2,0.3
+993,Sweden,2021,0.7,Amphetamines,Last year,Adults (15-64),6562.0,0.9,0.6,0.30000000000000004
+994,Sweden,2021,1.6,Amphetamines,Last year,Young adults (15-34),1928.0,1.8,1.5,0.30000000000000004
+995,Sweden,2021,0.2,Amphetamines,Last month,Adults (15-64),6562.0,0.2,0.1,0.1
+996,Sweden,2021,0.4,Amphetamines,Last month,Young adults (15-34),1928.0,0.6,0.2,0.39999999999999997
+997,Sweden,2021,0.8,Ecstasy,Last year,Adults (15-64),6562.0,0.9,0.8,0.09999999999999998
+998,Sweden,2021,2.0,Ecstasy,Last year,Young adults (15-34),1928.0,2.0,2.0,0.0
+999,Sweden,2021,0.1,Ecstasy,Last month,Adults (15-64),6562.0,0.2,0.1,0.1
+1000,Sweden,2021,0.3,Ecstasy,Last month,Young adults (15-34),1928.0,0.5,0.2,0.3
+1001,Sweden,2021,85.3,Alcohol,Last year,Adults (15-64),6562.0,85.9,84.7,1.2000000000000028
+1002,Sweden,2021,80.2,Alcohol,Last year,Young adults (15-34),1928.0,79.6,81.1,-1.5
+1003,Sweden,2017,6.0,Tobacco,Last year,Adults (15-64),7990.0,5.3,6.7,-1.4000000000000004
+1004,Sweden,2017,5.3,Tobacco,Last year,Young adults (15-34),2442.0,4.5,6.0,-1.5
