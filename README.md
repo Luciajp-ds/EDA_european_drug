@@ -7,29 +7,48 @@ Este proyecto realiza un Análisis Exploratorio de Datos (EDA) sobre el consumo 
 ## **2. HIPÓTESIS PLANTEADAS**
 
 El análisis se estructura en torno a las siguientes hipótesis principales:
+
 H1. Los hombres consumen más estupefacientes que las mujeres en todos los grupos de edad y en todos los países.
+
 H2. Existen diferencias significativas en la prevalencia del consumo de estupefacientes entre los países europeos.
+
 Estas hipótesis permiten analizar la relación entre consumo, género, edad y contexto geográfico, identificando posibles desigualdades y patrones comunes.
 
 
 ## **3. TECNOLOGÍAS UTILIZADAS**
 
 **Lenguaje y entorno**
+
 Python 3.10+
+
 Jupyter Notebook
+
 Visual Studio Code
+
 **Librerías de análisis**
+
 Pandas
+
 NumPy
+
 **Visualización**
+
 Matplotlib
+
 Seaborn
+
 Plotly
+
 **Control de versiones**
+
 Git
+
 GitHub
+
 **Gestión de datos**
+
 CSV
+
 OpenPyXL
 
 
